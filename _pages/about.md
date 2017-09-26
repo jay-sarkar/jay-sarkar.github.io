@@ -1,23 +1,41 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Agnieszka Borowska</strong>
+description:  <a href="http://www.vu.nl" title="VU">VU Amsterdam</a> and <a href="http://www.tinbergen.nl" title="TI">Tinbergen Institute</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+    <p>a 'dot' borowska 'at' vu 'dot' nl</p>
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my website!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a PhD candidate at the <a href="https://sbe.vu.nl/en/departments-and-institutes/econometrics-and-or/index.aspx" title="EOR">Econometrics and OR Department</a> at the <a href="http://www.vu.nl" title="VU">VU Amsterdam</a> and <a href="http://www.tinbergen.nl" title="TI">Tinbergen Institute</a>.
+My suprevisors are <a href="http://sjkoopman.net/" title="SJK">Siem Jan Koopman</a> and <a href="https://research.vu.nl/en/persons/lennart-hoogerheide" title="LH">Lennart F. Hoogerheide</a>. I was visiting <a href="http://www.maths.ed.ac.uk/~rking33/" title="RK">Ruth King</a> at <a href ="http://www.ed.ac.uk/" title="UoE">the University of Edinburgh</a>, <a href="http://www.maths.ed.ac.uk/school-of-mathematics/research/statistics" title="SoM">the School of Mathematics</a> during Spring 2017. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+I am on the 2018 job market and will be available for interviews at <a href="http://www.asesec.org/simposio/" title="SAE">the SAEe meeting in Barcelona</a> in December 2017 and at <a href="https://www.aeaweb.org/conference/" title="AEA">the AEA/ASSA annual meeting in Philadelphia</a> in January 2018.
+
+Please check <a class="page-link" href="{{ '/cv/aborowska_cv.pdf' | prepend: site.baseurl | prepend: site.url }}">my CV</a> and my
+<a class="page-link" href="{{ '/projects/1_project/' | prepend: site.baseurl | prepend: site.url }}">Job Market Project</a>!
+
+
+#### My main research interests:
+
+<ul>
+<li> Bayesian methods</li>
+<li> Time series analysis </li>
+<li> State space models</li>
+<li> Sequential Monte Carlo</li>
+</ul>
+
+***
+
+#### Pronunciation
+In case you were interested, here is how my <a href="https://en.wiktionary.org/wiki/Agnieszka" title="Agnieszka">name</a> is pronunced: a'g&#626;&#603;&#642;ka or Ag-niesh-ka.
+ 

@@ -1,55 +1,27 @@
 ---
 layout: page
-title: Project 2
-description: a project with a background image
-img: /assets/img/2.jpg
+title: Partially Censored Posterior
+description: with S.J. Koopman and L. Hoogerheide
+img: /assets/img/pcp.jpg
 ---
+	
+<script type="text/javascript">
+ function showhide(id) {
+    var e = document.getElementById(id);
+    e.style.display = (e.style.display == 'block') ? 'none' : 'block';
+ }
+</script>
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+With <a href="http://sjkoopman.net/" title="SJK">Siem Jan Koopman</a> and <a href="https://research.vu.nl/en/persons/lennart-hoogerheide" title="LH">Lennart F. Hoogerheide</a>. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+> A novel estimation method  providing a more accurate inference for a specific region of the predictive density  in case of misspecification. Based on the censored likelihood, where the observations outside the region of interest are censored (i.e. for them only the probability of being outside the region of interest matters). 
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+PDF: <a class="page-link" href="{{ '/research/Borowska, Hoogerheide, Koopman - Partially censored posterior for accurate left tail density prediction.pdf' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Accurate Left Tail Density Prediction</a>
 
-
-<div class="img_row">
-    <img class="col one" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
+<a href="javascript:showhide('pcp')">_Abstract_</a>
+<div id="pcp" style="display:none;">
+<p>  <span style="font-size:0.85em;"> 
+A novel approach to inference for a specific region of the predictive distribution is introduced. An important domain of application is accurate prediction of financial risk measures, where the area of interest is the left tail of the predictive posterior density of (log)returns. It originates from the Bayesian approach to parameter estimation and time series forecasting, however it provides a more accurate estimation of the density in the region of interest in case of misspecification. In the proposed concept of the Partially Censored Posterior the set of parameters is partitioned into two subsets: the first, for which we consider the standard marginal posterior, and the second, for which we consider a censored conditional posterior. The censoring means that observations outside the region of interest are censored: for those observations only the probability of being outside the region of interest matters. In the second subset we choose parameters that are expected to benefit from censoring. This approach yields more precise parameter estimation than a fully censored posterior for all parameters, and has more focus on the region of interest than a standard approach. Finally,  novel ways of time-varying censoring is developed, beneficial from the tail prediction perspective. Extensive simulation and empirical studies show the ability of the introduced method to outperform standard approaches.  </span> </p>
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-    <img class="col two" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-    <div class="img_row">
-      <img class="col two" src="/img/6.jpg"/>
-      <img class="col one" src="/img/11.jpg"/>
-    </div>
+Code: <a class="github-button" href="https://github.com/aborowska/PCP" data-size="large" aria-label="Follow @aborowska/PCP on GitHub">Follow @aborowska/PCP</a>
