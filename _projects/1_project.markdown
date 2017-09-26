@@ -14,7 +14,7 @@ img: /assets/img/qermit.jpg
   
 > Precise forecasts of the tail of the distribution of returns for very long horizons, even one-month and one-year ahead (not barely for the 10-days-ahead horizon required by the Basel Committee). An importance sampling based approach where the importance densities are constructed sequentially to "guide" the draws into the tail.
 >
-> > _Why do we care?_ Check: [Long Run Value at Risk (VaR)](https://vlab.stern.nyu.edu/doc/4?topic=apps) analysed by [NYU Stern VLAB](https://vlab.stern.nyu.edu/)!  
+> > _Why do we care?_ Check: [Long Run Value at Risk (VaR)](https://vlab.stern.nyu.edu/doc/4?topic=apps) analysed by [NYU Stern VLAB](https://vlab.stern.nyu.edu/#tabs-4)!  
 
 PDF: <a class="page-link" href="{{ '/research/A.Borowska - Bayesian Risk Evaluation for Long Horizons.pdf' | prepend: site.baseurl | prepend: site.url }}">Long Run Risk Evaluation</a>
 
