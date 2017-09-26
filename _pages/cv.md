@@ -35,3 +35,7 @@ __PhD candidate__, [VU Amsterdam](http://www.vu.nl) and [Tinbergen Institute](ht
 * Student exchange, [University of Goettingen](http://www.uni-goettingen.de/en/1.html), 2011.
 * __B.Sc. in Economics__, [Warsaw School of Economics](http://www.sgh.waw.pl/en/Pages/default.aspx), 2009.
   
+***
+
+#### Pronunciation
+In case you were interested, here is how my <a href="https://en.wiktionary.org/wiki/Agnieszka" title="Agnieszka">name</a> is pronunced: a'g&#626;&#603;&#642;ka or Ag-niesh-ka.  

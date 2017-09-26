@@ -33,9 +33,3 @@ Please check <a class="page-link" href="{{ '/cv/aborowska_cv.pdf' | prepend: sit
 <li> State space models</li>
 <li> Sequential Monte Carlo</li>
 </ul>
-
-***
-
-#### Pronunciation
-In case you were interested, here is how my <a href="https://en.wiktionary.org/wiki/Agnieszka" title="Agnieszka">name</a> is pronunced: a'g&#626;&#603;&#642;ka or Ag-niesh-ka.
- 
