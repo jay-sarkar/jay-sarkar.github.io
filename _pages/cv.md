@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: cv
 permalink: /cv/
 title: vitae
 description: My CV and education
