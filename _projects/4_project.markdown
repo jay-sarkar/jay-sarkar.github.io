@@ -20,7 +20,7 @@ With [Siem Jan Koopman](http://sjkoopman.net/) and [Lennart F. Hoogerheide](http
 
 
 
-<a href="javascript:showhide('baysm')">_Abstract_</a>
+<i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('baysm')">_Abstract_</a>
 <div id="baysm" style="display:none;">
 <p>  <span style="font-size:0.85em; text-align: justify;"> We present a novel approach to Bayesian estimation of two financial risk measures, Value at Risk and Expected Shortfall, in nonlinear, non-Gaussian state space models. In particular, we consider two specifications of the stochastic volatility model: with normal and Student’s t observation disturbances. The key insight behind our proposed importance sampling based approach is to accurately approximate the optimal importance density, which focuses on the augmented parameter subspace corresponding to high losses. By oversampling the extreme scenarios and punishing them by lower importance weights, we achieve a much higher precision in characterising the properties of the left tail. We report substantial gains in the accuracy of estimates in an empirical study on daily financial data. </span> </p>
 </div>
