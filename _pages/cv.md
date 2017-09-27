@@ -29,12 +29,14 @@ __PhD candidate__, [VU Amsterdam](http://www.vu.nl) and [Tinbergen Institute](ht
 	
 #### Education:
 
-* __M.Phil. in Economics__ (major: Econometics), Tinbergen Institute, 2015.
-* __B.Sc. in Mathematics__ (minor: Probability Theory), [University of Warsaw](http://www.mimuw.edu.pl/?LANG=en&para=&parb=), 2013.
-* __M.Sc. in Economics__, [Warsaw School of Economics](http://www.sgh.waw.pl/en/Pages/default.aspx), 2012.
-* Student exchange, [University of Goettingen](http://www.uni-goettingen.de/en/1.html), 2011.
-* __B.Sc. in Economics__, [Warsaw School of Economics](http://www.sgh.waw.pl/en/Pages/default.aspx), 2009.
-  
+<ul style="list-style: none;">
+<li> <i class="fa fa-graduation-cap" aria-hidden="true"></i> <strong>M.Phil. in Economics</strong> (major: Econometrics), Tinbergen Institute, 2015. </li> 
+<li> <i class="fa fa-graduation-cap" aria-hidden="true"></i> <strong>B.Sc. in Mathematics</strong> (minor: Probability Theory), <a href="http://www.mimuw.edu.pl/?LANG=en&para=&parb=" title="MIM">University of Warsaw</a>, 2013.</li> 
+<li> <i class="fa fa-graduation-cap" aria-hidden="true"></i> <strong>M.Sc. in Economics</strong>, <a href="http://www.sgh.waw.pl/en/Pages/default.aspx" title="SGH">Warsaw School of Economics</a>, 2012.</li> 
+<li> <i class="fa fa-graduation-cap" aria-hidden="true"></i> Student exchange, <a href="http://www.uni-goettingen.de/en/1.html" title="UoG">University of Goettingen</a>, 2011.</li> 
+<li> <i class="fa fa-graduation-cap" aria-hidden="true"></i> <strong>B.Sc. in Economics</strong>,<a href="http://www.sgh.waw.pl/en/Pages/default.aspx" title="SGH">Warsaw School of Economics</a>, 2009.</li> 
+</ul>  
+
 ***
 
 #### Pronunciation

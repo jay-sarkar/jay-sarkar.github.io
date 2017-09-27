@@ -6,6 +6,8 @@
 
 @import 'variables';
 
+@import 'mixins';
+
 @import 'basscss';
 
 @import 'base';
@@ -22,12 +24,13 @@
 @import 'pagination';
 @import 'publications';
 
-@import 'blockquotes';
+@import "blockquotes";
 @import 'code';
 @import 'gallery';
 @import 'gists';
 @import 'links';
 @import 'measure';
+@import 'notices';
 @import 'media-queries';
 @import 'social-icons';
 @import 'tables';
