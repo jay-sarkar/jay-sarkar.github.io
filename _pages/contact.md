@@ -18,6 +18,10 @@ email: a 'dot' borowska 'at' vu 'dot' nl
 
 ------
 
+Tinbergen Institute's placement director: <a href="mailto:e.j.bartelsman@vu.nl">Eric Bartelsman</a>
+
+------
+
 ### Links
 
 Below you can find links to websites which I find important and/or interesting. 
@@ -26,19 +30,18 @@ Below you can find links to websites which I find important and/or interesting.
 [Tinbergen Institute](http://www.tinbergen.nl/)   
 [VU Econometrics](http://sjkoopman.net/VUect.html)	
 
-#### Analytics
-[V-Lab](https://vlab.stern.nyu.edu/)	
-
-#### Personal websites and blogs
+#### People
 [Siem Jan Koopman](http://sjkoopman.net/)   
 [Lennart F. Hoogerheide](https://research.vu.nl/en/persons/lennart-hoogerheide)   
 [Ruth King](http://www.maths.ed.ac.uk/~rking33/)	
 
+#### Blogs
 [Christian Robert](https://xianblog.wordpress.com/)   
 [Anderw Gelman](http://andrewgelman.com/)   
 [Darren Wilkinson](https://darrenjw.wordpress.com/)
 
 #### Other
 [GitHub](https://github.com)   
-[Building MEX functions](http://nl.mathworks.com/help/matlab/ref/mex.html)   
-[Overleaf](https://www.overleaf.com/) (Online LaTeX editor)	
+[MEX](http://nl.mathworks.com/help/matlab/ref/mex.html) (Building C/C++/Fortran functions in MATLAB)  
+[Overleaf](https://www.overleaf.com/) (online LaTeX editor)   
+[V-Lab](https://vlab.stern.nyu.edu/) (real time volatility analysis)   
