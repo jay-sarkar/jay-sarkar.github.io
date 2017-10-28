@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Risk Evaluation for State Space Models
-description: with S.J.K. and L.H.
+description: 
 img: /assets/img/nais_smooth.jpg
 ---
 
@@ -12,12 +12,11 @@ img: /assets/img/nais_smooth.jpg
  }
 </script> 
    
-With [Siem Jan Koopman](http://sjkoopman.net/) and [Lennart F. Hoogerheide](https://research.vu.nl/en/persons/lennart-hoogerheide).   
+With [Lennart Hoogerheide](https://research.vu.nl/en/persons/lennart-hoogerheide) and [Siem Jan Koopman](http://sjkoopman.net/).   
 
 > Efficient Bayesian risk estimation for nonlinear, non-Gaussian state space models based on importance sampling. The optimal importance density constructed for the augmented parameter space (including the latent volatility process) with a focus on the "high-loss" scenarios.
 
 <i class="fa fa-download fa-ld" aria-hidden="true"></i> PDF: <a class="page-link" href="{{ '/research/BAYSM2016_Borowska_Hoogerheide_Koopman.pdf' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Evaluation in State Space Models</a> _(extended abstract)_
-
 
 
 <i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('baysm')">_Abstract_</a>

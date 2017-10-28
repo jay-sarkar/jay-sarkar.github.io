@@ -25,6 +25,9 @@ Project: <a class="page-link" href="{{ '/projects/1_project/' | prepend: site.ba
  
 * Project: <a class="page-link" href="{{ '/projects/4_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Evaluation in State Space Models</a>
 
+### Revisions
+
+* Project: <a class="page-link" href="{{ '/projects/5_project/' | prepend: site.baseurl | prepend: site.url }}">Time-varying Combinations of Bayesian Dynamic Models and Equity Momentum Strategies</a> (for Journal of Econometrics)
 	
 ### Conferences
 * [__8th European Seminar on Bayesian Econometrics__](http://esobe2017.org/) (ESOBE2017),

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Semi-Complete Data Augmentation
-description: with Ruth King
+description: 
 img: /assets/img/sv_hmm.jpg
 ---
 

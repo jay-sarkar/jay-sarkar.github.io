@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Partially Censored Posterior
-description: with S.J. Koopman and L. Hoogerheide
+description:  
 img: /assets/img/pcp.jpg
 ---
 	
@@ -12,7 +12,7 @@ img: /assets/img/pcp.jpg
  }
 </script>
 
-With <a href="http://sjkoopman.net/" title="SJK">Siem Jan Koopman</a> and <a href="https://research.vu.nl/en/persons/lennart-hoogerheide" title="LH">Lennart F. Hoogerheide</a>. 
+With <a href="https://research.vu.nl/en/persons/lennart-hoogerheide" title="LH">Lennart Hoogerheide</a> and <a href="http://sjkoopman.net/" title="SJK">Siem Jan Koopman</a>. 
 
 > A novel estimation method  providing a more accurate inference for a specific region of the predictive density  in case of misspecification. Based on the censored likelihood, where the observations outside the region of interest are censored (i.e. for them only the probability of being outside the region of interest matters). 
 
