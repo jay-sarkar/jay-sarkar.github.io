@@ -1,7 +1,7 @@
 ---
 layout: page
-title: M-Filter for Extended Density Combinations
-description: 
+title: Model and Strategy Combinations
+description: Revision in J Econom
 img:  
 ---
 

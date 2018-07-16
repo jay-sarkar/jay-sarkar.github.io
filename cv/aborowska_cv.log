@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  27 DEC 2017 12:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.29)  6 JUL 2018 19:41
 entering extended mode
-**"./A.Borowska - CV.tex"
-("A.Borowska - CV.tex"
+**./aborowska_cv.tex
+(aborowska_cv.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
 (resume.cls
@@ -158,7 +158,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex\generic\genmisc\nth.sty
 Package: nth 2002/02/27
 )
-No file "A.Borowska - CV".aux.
+No file aborowska_cv.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
@@ -213,42 +213,62 @@ LaTeX Info: Redefining \ref on input line 7.
 LaTeX Info: Redefining \pageref on input line 7.
 LaTeX Info: Redefining \nameref on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 13.
+(Font)              <7> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 13.
+(Font)              <5> on input line 17.
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--61
+Underfull \hbox (badness 10000) in paragraph at lines 72--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--83
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--99
 
  []
 
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 94--113
+Underfull \hbox (badness 10000) in paragraph at lines 110--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--173
 
  []
 
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 264.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 236.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 236.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 236.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 264.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 264.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 264.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 264.
  ) 
 Here is how much of TeX's memory you used:
  4933 strings out of 493323
- 72788 string characters out of 3139065
+ 72766 string characters out of 3139065
  160578 words of memory out of 3000000
  8479 multiletter control sequences out of 15000+200000
  6635 words of font info for 24 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,5n,21p,303b,350s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,5n,21p,237b,350s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTe
@@ -258,7 +278,7 @@ onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 msfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt1
 0.pfb>
-Output written on "A.Borowska - CV.pdf" (3 pages, 141531 bytes).
+Output written on aborowska_cv.pdf (3 pages, 143467 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)

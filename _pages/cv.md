@@ -20,6 +20,12 @@ You can find my full CV <a class="page-link" href="{{ '/cv/aborowska_cv.pdf' | p
 ### short CV
 
 #### Current position:
+
+__Postdoc researcher__ in Statistics, [University of Glasgow](https://www.gla.ac.uk/) and [SofTMech](http://softmech.org/) 
+
+* Working with [Prof. Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)
+* Since May 2018
+
 __PhD candidate__, [VU Amsterdam](http://www.vu.nl) and [Tinbergen Institute](http://www.tinbergen.nl)
 
 * Supervisors:  [Prof. Siem Jan Koopman](http://sjkoopman.net/) and [dr Lennart F. Hoogerheide](https://research.vu.nl/en/persons/lennart-hoogerheide)

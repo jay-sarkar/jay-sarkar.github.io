@@ -7,18 +7,21 @@ description: How to contact me and useful links.
 
 ### How to contact me
  
-Vrije Universiteit (VU) Amsterdam   
-Department of Econometric and Operational Research   
-De Boelelaan 1105   
-1081 HV Amsterdam
+[//]: # Vrije Universiteit (VU) Amsterdam   
+[//]: # Department of Econometric and Operational Research   
+[//]: # De Boelelaan 1105   
+[//]: # 1081 HV Amsterdam
 
+University of Glasgow   
+School of Mathematics and Statistics   
+University Place   
+Glasgow G12 8QQ
+ 
+[//]: # tel: +31 20 598 2356   
+[//]: # email: a 'dot' borowska 'at' vu 'dot' nl
 
-tel: +31 20 598 2356   
-email: a 'dot' borowska 'at' vu 'dot' nl
-
-------
-
-Tinbergen Institute's placement director: <a href="mailto:e.j.bartelsman@vu.nl">Eric Bartelsman</a>
+tel: +44 7501 438815   
+email: my_name 'dot' my_surname 'at' glasgow 'dot' ac 'dot' uk
 
 ------
 
@@ -27,12 +30,15 @@ Tinbergen Institute's placement director: <a href="mailto:e.j.bartelsman@vu.nl">
 Below you can find links to websites which I find important and/or interesting. 
 
 #### Institutions
+[UoG School of Mathematics and Statistics](https://www.gla.ac.uk/schools/mathematicsstatistics/)   
+[SofTMech](http://www.softmech.org/)   
 [Tinbergen Institute](http://www.tinbergen.nl/)   
 [VU Econometrics](http://sjkoopman.net/VUect.html)	
 
 #### People
+[Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)   
 [Siem Jan Koopman](http://sjkoopman.net/)   
-[Lennart F. Hoogerheide](https://research.vu.nl/en/persons/lennart-hoogerheide)   
+[Lennart Hoogerheide](https://research.vu.nl/en/persons/lennart-hoogerheide)   
 [Ruth King](http://www.maths.ed.ac.uk/~rking33/)	
 
 #### Blogs

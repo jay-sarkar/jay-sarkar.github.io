@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: Information about my research activities.
+description: Information about my research activities
 ---
 
 <script type="text/javascript">
@@ -12,31 +12,42 @@ description: Information about my research activities.
  }
 </script>
 
+## Published
+
+Project: <a class="page-link" href="{{ '/projects/0_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Dynamic Modeling of High-Frequency Integer Price Changes</a> (published in Journal of Financial Econometrics, 2018)
+
+## Submitted and under revision
+
+* Project: <a class="page-link" href="{{ '/projects/5_project/' | prepend: site.baseurl | prepend: site.url }}">Time-varying Combinations of Bayesian Dynamic Models and Equity Momentum Strategies</a> (under revision in Journal of Econometrics)
+
+* Project: <a class="page-link" href="{{ '/projects/2_project/' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Accurate Left Tail Density Prediction</a>	(submitted to Journal of Econometrics)
+
+## Ongoing
+
 ### Job Market Paper
 
 Project: <a class="page-link" href="{{ '/projects/1_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Evaluation for Long Horizons</a>
 
-
 ### Work in progress
 	
-* Project: <a class="page-link" href="{{ '/projects/3_project/' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation</a>
-
-* Project: <a class="page-link" href="{{ '/projects/2_project/' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Accurate Left Tail Density Prediction</a>
- 
+* Project: <a class="page-link" href="{{ '/projects/3_project/' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation</a> 
 * Project: <a class="page-link" href="{{ '/projects/4_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Evaluation in State Space Models</a>
 
-### Revisions
 
-* Project: <a class="page-link" href="{{ '/projects/5_project/' | prepend: site.baseurl | prepend: site.url }}">Time-varying Combinations of Bayesian Dynamic Models and Equity Momentum Strategies</a> (for Journal of Econometrics)
-	
-### Conferences
+## Conferences
+* [__4th Bayesian Young Statisticians Meeting__](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/wade/2018baysmconference/) (BAYSM2018),
+Warwick, UK, 2-3 July 2018
+* [__Bayes Comp__](https://www.maths.nottingham.ac.uk/personal/tk/bayescomp/)
+Barcelona, Spain, 26-28 March 2018
+* [__10th International Conference of the ERCIM WG on Computational and Methodological Statistics__](http://cmstatistics.org/CMStatistics2017/) (CMStatistics 2017),
+London, UK\hfill 16-- 18 Dec. 2017 \vspace{1mm} \\ 	
 * [__8th European Seminar on Bayesian Econometrics__](http://esobe2017.org/) (ESOBE2017),
 Maastricht, The Netherlands, 26-27 October 2017
 * [__Sequential Monte Carlo 2017 Workshop__](http://www.it.uu.se/conferences/smc2017/) (SMC2017),
 Uppsala, Sweden, 30 August - 1 September 2017
 * [__1st International Conference on Econometrics and Statistics__](http://cmstatistics.org/EcoSta2017/index.php) (EcoSta2017),
 Hong Kong, 15-17 June 2017 
-* [__Statistics Seminar Series of the School of Mathematics__](http://www.maths.ed.ac.uk/school-of-mathematics/events/statistics) , 
+* [__Statistics Seminar Series of the School of Mathematics__](http://www.maths.ed.ac.uk/school-of-mathematics/events/statistics), 
 Edinburgh, The UK, 19 May 2017
 * [__10th International Conference on Computational and Financial Econometrics__](http://www.cfenetwork.org/CFE2016/) (CFE2016), 
 Seville, Spain, 9-11 December 2016

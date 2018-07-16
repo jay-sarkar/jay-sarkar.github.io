@@ -2,7 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Agnieszka Borowska
-email: a.borowska@vu.nl	
+email: Agnieszka.Borowska@glasgow.ac.uk
+# email: a.borowska@vu.nl
+
 description: > # this means to ignore newlines until "url:"
   Agnieszka Borowska's research website
 footer_text: >
@@ -11,8 +13,8 @@ footer_text: >
 
 url: https://aborowska.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-# url: # the base hostname & protocol for your site
-# baseurl: /al-folio/ # the subpath of your site, e.g. /blog/
+# url:  # the base hostname & protocol for your site
+# baseurl: /al-folio # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
@@ -65,7 +67,7 @@ collections:
     output: true
     permalink: /teaching/:path/
 
-news_limit: 5
+news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -77,9 +79,12 @@ highlighter: pygments
 
 # Includes
 include: ['_pages']
+exclude: ['_posts']
+
 
 # Gems
-gems:
+# gems:
+plugins:
     - jekyll-paginate
     - jekyll/scholar
     - jemoji
@@ -112,5 +117,5 @@ scholar:
 # Other settings
 # -----------------------------------------------------------------------------
 jquery_version: "1.12.4"
-katex_version: "0.7.1"
+katex_version: "0.9.0"
 anchorjs_version: "3.2.2"
