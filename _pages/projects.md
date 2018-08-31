@@ -5,7 +5,8 @@ permalink: /projects/
 description: Some details about my projects
 ---
 
-{% for project in site.projects %}
+{% assign projects = site.projects | reverse %}
+{% for project in projects  %}
 
 {% if project.redirect %}
 <div class="project">

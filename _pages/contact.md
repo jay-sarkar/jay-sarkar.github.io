@@ -7,18 +7,10 @@ description: How to contact me and useful links.
 
 ### How to contact me
  
-[//]: # Vrije Universiteit (VU) Amsterdam   
-[//]: # Department of Econometric and Operational Research   
-[//]: # De Boelelaan 1105   
-[//]: # 1081 HV Amsterdam
-
 University of Glasgow   
 School of Mathematics and Statistics   
 University Place   
 Glasgow G12 8QQ
- 
-[//]: # tel: +31 20 598 2356   
-[//]: # email: a 'dot' borowska 'at' vu 'dot' nl
 
 tel: +44 7501 438815   
 email: my_name 'dot' my_surname 'at' glasgow 'dot' ac 'dot' uk

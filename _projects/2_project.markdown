@@ -1,26 +1,29 @@
 ---
 layout: page
-title: Partially Censored Posterior
-description: Submitted to J Econom
-img: /assets/img/pcp.jpg
+title: Long Run Risk Evaluation
+description: Job Market Paper
+img: /assets/img/qermit.jpg
 ---
-	
+
 <script type="text/javascript">
  function showhide(id) {
     var e = document.getElementById(id);
     e.style.display = (e.style.display == 'block') ? 'none' : 'block';
  }
 </script>
+  
+> Precise forecasts of the tail of the distribution of returns for very long horizons, even one-month and one-year ahead (not barely for the 10-days-ahead horizon required by the Basel Committee). An importance sampling based approach where the importance densities are constructed sequentially to "guide" the draws into the tail.
 
-With <a href="https://research.vu.nl/en/persons/lennart-hoogerheide" title="LH">Lennart Hoogerheide</a>, <a href="http://sjkoopman.net/" title="SJK">Siem Jan Koopman</a> and <a href="https://personal.eur.nl/hkvandijk/">Herman K. van Dijk</a>. 
+<blockquote class="style1"> <strong>Why do we care?</strong> Check: <a href="https://vlab.stern.nyu.edu/doc/4?topic=apps" title="VaR">Long Run Value at Risk (VaR)</a> analysed by <a href="https://vlab.stern.nyu.edu/#tabs-4)" title ="VLab">NYU Stern V-Lab</a>!  </blockquote>
 
-> A novel estimation method  providing a more accurate inference for a specific region of the predictive density  in case of misspecification. Based on the censored likelihood, where the observations outside the region of interest are censored (i.e. for them only the probability of being outside the region of interest matters). 
 
-<i class="fa fa-download fa-ld" aria-hidden="true"></i> PDF: <a class="page-link" href="{{ '/research/Borowska, Hoogerheide, Koopman, Van Dijk - Partially Censored Posterior for Robust and Efficient Risk Evaluation.pdf' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Accurate Left Tail Density Prediction</a>
+<i class="fa fa-download fa-lg" aria-hidden="true"></i> PDF: <a class="page-link" href="{{ '/research/A.Borowska - Bayesian Risk Evaluation for Long Horizons.pdf' | prepend: site.baseurl | prepend: site.url }}">Long Run Risk Evaluation</a>
 
-<i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('pcp')">_Abstract_</a>
-<div id="pcp" style="display:none;">
-<p>  <div style="font-size:0.85em; text-align: justify;"> novel approach to inference for a specific region of the predictive distribution is introduced. An important domain of application is accurate prediction of financial risk measures, where the area of interest is the left tail of the predictive density of logreturns. Our proposed approach originates from the Bayesian approach to parameter estimation and time series forecasting, however it is robust in the sense that it provides a more accurate estimation of the predictive density in the region of interest in case of misspecification. The first main contribution of the paper is the novel concept of the Partially Censored Posterior (PCP), where the set of model parameters is partitioned into two subsets: for the first subset of parameters we consider the standard marginal posterior, for the second subset of parameters (that are particularly related to the region of interest) we consider the conditional censored posterior. The censoring means that observations outside the region of interest are censored: for those observations only the probability of being outside the region of interest matters. This approach yields more precise parameter estimation than a fully censored posterior for all parameters, and has more focus on the region of interest than a standard Bayesian approach. The second main contribution is that we introduce two novel methods for computationally efficient simulation: Conditional MitISEM, a Markov chain Monte Carlo method to simulate model parameters from the Partially Censored Posterior, and PCP-QERMit, an Importance Sampling method that is introduced to further decrease the numerical standard errors of the Value-at-Risk and Expected Shortfall estimators. The third main contribution is that we consider the effect of using a time-varying boundary of the region of interest, which may provide more information about the left tail of the distribution of the standardized innovations. Extensive simulation and empirical studies show the ability of the introduced method to outperform standard approaches.</div> </p>
+<i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('longrun')">_Abstract_</a>
+<div id="longrun" style="display:none;">
+<p>  <div style="font-size:0.85em; text-align: justify;"> We present an  accurate and efficient approach to Bayesian estimation of two financial risk measures, Value at Risk and Expected Shortfall, for a given volatility model. We obtain precise forecasts of the tail of the distribution of returns not only for the 10-days-ahead horizon required by the Basel Committee but even for  long horizons, like one-month or one-year ahead. The latter has recently attracted a considerable attention due to a different character of the short term risk and the long run one. Long  horizon forecasts can also be useful e.g. for option pricing. The key insight behind our proposed importance sampling based approach is the construction of the importance densities sequentially, with conditioning of the  properties of the current conditional density on the marginal density and the previous conditional densities. For robustness, the partial candidate densities  are efficiently constructed as mixtures of Student's t densities. By oversampling the extreme negative scenarios and punishing them by lower importance weights, we achieve a much higher precision in characterising the properties of the left tail. We report substantial accuracy gains for all the considered horizons in  empirical studies on two datasets of daily financial returns, including a highly volatile period of the recent financial crisis. We analyse two workhorse models used by financial practitioners, GARCH(1,1)-t and GAS(1,1)-t. To illustrate the flexibility of the proposed construction method, we present how it can be adjusted to the frequentist case, for which we provide  counterparts of both Bayesian applications.</div> </p>
 </div>
 
-Code: <a class="github-button" href="https://github.com/aborowska/PCP" data-size="large" aria-label="Follow @aborowska/PCP on GitHub">Follow @aborowska/PCP</a>
+
+
+Code: <a class="github-button" href="https://github.com/aborowska/QERMit" data-size="large" aria-label="Follow @aborowska/QERMit on GitHub">Follow @aborowska/QERMit</a>

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Long Run Risk Evaluation
-description: Job Market Paper
-img: /assets/img/qermit.jpg
+title: Risk Evaluation for State Space Models
+description: 
+img: /assets/img/nais_smooth.jpg
 ---
 
 <script type="text/javascript">
@@ -10,20 +10,18 @@ img: /assets/img/qermit.jpg
     var e = document.getElementById(id);
     e.style.display = (e.style.display == 'block') ? 'none' : 'block';
  }
-</script>
-  
-> Precise forecasts of the tail of the distribution of returns for very long horizons, even one-month and one-year ahead (not barely for the 10-days-ahead horizon required by the Basel Committee). An importance sampling based approach where the importance densities are constructed sequentially to "guide" the draws into the tail.
+</script> 
+   
+With [Lennart Hoogerheide](https://research.vu.nl/en/persons/lennart-hoogerheide) and [Siem Jan Koopman](http://sjkoopman.net/).   
 
-<blockquote class="style1"> <strong>Why do we care?</strong> Check: <a href="https://vlab.stern.nyu.edu/doc/4?topic=apps" title="VaR">Long Run Value at Risk (VaR)</a> analysed by <a href="https://vlab.stern.nyu.edu/#tabs-4)" title ="VLab">NYU Stern V-Lab</a>!  </blockquote>
+> Efficient Bayesian risk estimation for nonlinear, non-Gaussian state space models based on importance sampling. The optimal importance density constructed for the augmented parameter space (including the latent volatility process) with a focus on the "high-loss" scenarios.
+
+<i class="fa fa-download fa-ld" aria-hidden="true"></i> PDF: <a class="page-link" href="{{ '/research/BAYSM2016_Borowska_Hoogerheide_Koopman.pdf' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Evaluation in State Space Models</a> _(extended abstract)_
 
 
-<i class="fa fa-download fa-lg" aria-hidden="true"></i> PDF: <a class="page-link" href="{{ '/research/A.Borowska - Bayesian Risk Evaluation for Long Horizons.pdf' | prepend: site.baseurl | prepend: site.url }}">Long Run Risk Evaluation</a>
-
-<i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('longrun')">_Abstract_</a>
-<div id="longrun" style="display:none;">
-<p>  <div style="font-size:0.85em; text-align: justify;"> We present an  accurate and efficient approach to Bayesian estimation of two financial risk measures, Value at Risk and Expected Shortfall, for a given volatility model. We obtain precise forecasts of the tail of the distribution of returns not only for the 10-days-ahead horizon required by the Basel Committee but even for  long horizons, like one-month or one-year ahead. The latter has recently attracted a considerable attention due to a different character of the short term risk and the long run one. Long  horizon forecasts can also be useful e.g. for option pricing. The key insight behind our proposed importance sampling based approach is the construction of the importance densities sequentially, with conditioning of the  properties of the current conditional density on the marginal density and the previous conditional densities. For robustness, the partial candidate densities  are efficiently constructed as mixtures of Student's t densities. By oversampling the extreme negative scenarios and punishing them by lower importance weights, we achieve a much higher precision in characterising the properties of the left tail. We report substantial accuracy gains for all the considered horizons in  empirical studies on two datasets of daily financial returns, including a highly volatile period of the recent financial crisis. We analyse two workhorse models used by financial practitioners, GARCH(1,1)-t and GAS(1,1)-t. To illustrate the flexibility of the proposed construction method, we present how it can be adjusted to the frequentist case, for which we provide  counterparts of both Bayesian applications.</div> </p>
+<i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('baysm')">_Abstract_</a>
+<div id="baysm" style="display:none;">
+<p>  <div style="font-size:0.85em; text-align: justify;"> We present a novel approach to Bayesian estimation of two financial risk measures, Value at Risk and Expected Shortfall, in nonlinear, non-Gaussian state space models. In particular, we consider two specifications of the stochastic volatility model: with normal and Student’s t observation disturbances. The key insight behind our proposed importance sampling based approach is to accurately approximate the optimal importance density, which focuses on the augmented parameter subspace corresponding to high losses. By oversampling the extreme scenarios and punishing them by lower importance weights, we achieve a much higher precision in characterising the properties of the left tail. We report substantial gains in the accuracy of estimates in an empirical study on daily financial data. </div> </p>
 </div>
 
-
-
-Code: <a class="github-button" href="https://github.com/aborowska/QERMit" data-size="large" aria-label="Follow @aborowska/QERMit on GitHub">Follow @aborowska/QERMit</a>
+Code: <a class="github-button" href="https://github.com/aborowska/QERMit" data-size="large" aria-label="Follow @aborowska/QERMit on GitHub">Follow @aborowska/QERMit</a> and <a class="github-button" href="https://github.com/aborowska/NAIS" data-size="large" aria-label="Follow @aborowska/NAIS on GitHub">Follow @aborowska/NAIS</a>

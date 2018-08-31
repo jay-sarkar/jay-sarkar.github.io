@@ -14,33 +14,35 @@ description: Information about my research activities
 
 ## Published
 
-Project: <a class="page-link" href="{{ '/projects/0_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Dynamic Modeling of High-Frequency Integer Price Changes</a> (published in Journal of Financial Econometrics, 2018)
+Project: <a class="page-link" href="{{ '/projects/6_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Dynamic Modeling of High-Frequency Integer Price Changes</a> (published in Journal of Financial Econometrics, 2018)
 
 ## Submitted and under revision
 
 * Project: <a class="page-link" href="{{ '/projects/5_project/' | prepend: site.baseurl | prepend: site.url }}">Time-varying Combinations of Bayesian Dynamic Models and Equity Momentum Strategies</a> (under revision in Journal of Econometrics)
 
-* Project: <a class="page-link" href="{{ '/projects/2_project/' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Accurate Left Tail Density Prediction</a>	(submitted to Journal of Econometrics)
+* Project: <a class="page-link" href="{{ '/projects/4_project/' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Accurate Left Tail Density Prediction</a>	(submitted to Journal of Econometrics)
 
 ## Ongoing
 
 ### Job Market Paper
 
-Project: <a class="page-link" href="{{ '/projects/1_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Evaluation for Long Horizons</a>
+Project: <a class="page-link" href="{{ '/projects/2_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Evaluation for Long Horizons</a>
 
 ### Work in progress
-	
+* Project: <a class="page-link" href="{{ '/projects/7_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Optimisation for Left Ventricle Models</a> 	
 * Project: <a class="page-link" href="{{ '/projects/3_project/' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation</a> 
-* Project: <a class="page-link" href="{{ '/projects/4_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Evaluation in State Space Models</a>
+* Project: <a class="page-link" href="{{ '/projects/1_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Evaluation in State Space Models</a>
 
 
 ## Conferences
+* [__2nd Joint Liverpool-Glasgow Maths Healthcare Centre Meeting__](http://www.softmech.org/events/headline_587868_en.html),
+Liverpool, UK, 30 August 2018
 * [__4th Bayesian Young Statisticians Meeting__](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/wade/2018baysmconference/) (BAYSM2018),
 Warwick, UK, 2-3 July 2018
 * [__Bayes Comp__](https://www.maths.nottingham.ac.uk/personal/tk/bayescomp/)
 Barcelona, Spain, 26-28 March 2018
 * [__10th International Conference of the ERCIM WG on Computational and Methodological Statistics__](http://cmstatistics.org/CMStatistics2017/) (CMStatistics 2017),
-London, UK\hfill 16-- 18 Dec. 2017 \vspace{1mm} \\ 	
+London, UK 16-18 December 2017 	
 * [__8th European Seminar on Bayesian Econometrics__](http://esobe2017.org/) (ESOBE2017),
 Maastricht, The Netherlands, 26-27 October 2017
 * [__Sequential Monte Carlo 2017 Workshop__](http://www.it.uu.se/conferences/smc2017/) (SMC2017),
