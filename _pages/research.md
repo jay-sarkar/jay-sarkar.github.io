@@ -14,13 +14,13 @@ description: Information about my research activities
 
 ## Published
 
+Project: <a class="page-link" href="{{ '/projects/5_project/' | prepend: site.baseurl | prepend: site.url }}">Time-varying Combinations of Bayesian Dynamic Models and Equity Momentum Strategies</a> (published in Journal of Econometrics, 2018)
+
 Project: <a class="page-link" href="{{ '/projects/6_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Dynamic Modeling of High-Frequency Integer Price Changes</a> (published in Journal of Financial Econometrics, 2018)
 
 ## Submitted and under revision
 
-* Project: <a class="page-link" href="{{ '/projects/5_project/' | prepend: site.baseurl | prepend: site.url }}">Time-varying Combinations of Bayesian Dynamic Models and Equity Momentum Strategies</a> (under revision in Journal of Econometrics)
-
-* Project: <a class="page-link" href="{{ '/projects/4_project/' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Accurate Left Tail Density Prediction</a>	(submitted to Journal of Econometrics)
+Project: <a class="page-link" href="{{ '/projects/4_project/' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Accurate Left Tail Density Prediction</a>	(revision for Journal of Econometrics)
 
 ## Ongoing
 
@@ -29,12 +29,15 @@ Project: <a class="page-link" href="{{ '/projects/6_project/' | prepend: site.ba
 Project: <a class="page-link" href="{{ '/projects/2_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Evaluation for Long Horizons</a>
 
 ### Work in progress
+* Project: <a class="page-link" href="{{ '/projects/8_project/' | prepend: site.baseurl | prepend: site.url }}">Gaussian Processes and ABC for Statistical Inference in Cell Migration SDE Systems</a> 
 * Project: <a class="page-link" href="{{ '/projects/7_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Optimisation for Left Ventricle Models</a> 	
 * Project: <a class="page-link" href="{{ '/projects/3_project/' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation</a> 
 * Project: <a class="page-link" href="{{ '/projects/1_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Evaluation in State Space Models</a>
 
 
 ## Conferences
+* [__Cside2 2018 Conference__](https://www.gla.ac.uk/schools/mathematicsstatistics/events/conferences/cside2018/),
+Glasgow, UK, 26 November 2018
 * [__2nd Joint Liverpool-Glasgow Maths Healthcare Centre Meeting__](http://www.softmech.org/events/headline_587868_en.html),
 Liverpool, UK, 30 August 2018
 * [__4th Bayesian Young Statisticians Meeting__](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/wade/2018baysmconference/) (BAYSM2018),

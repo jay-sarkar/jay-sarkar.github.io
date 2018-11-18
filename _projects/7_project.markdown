@@ -12,7 +12,7 @@ img: /assets/img/LVs.png
  }
 </script>
    
-With [Dirk Husmeier](http://www.maths.ed.ac.uk/~rking33/), [Hao Gao](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao/) and [Xiaoyu Luo](https://www.maths.gla.ac.uk/~xl/)
+With [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/), [Hao Gao](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao/) and [Xiaoyu Luo](https://www.maths.gla.ac.uk/~xl/)
 
 > Accelerating the convergence of optimisation procedures for parameter estimation in left ventricular models via Bayesian Optimisation. Previous approaches were too computationally costly to be used for personalised treatments within clinics.
 
