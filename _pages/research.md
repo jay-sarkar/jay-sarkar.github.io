@@ -14,29 +14,36 @@ description: Information about my research activities
 
 ## Published
 
-Project: <a class="page-link" href="{{ '/projects/5_project/' | prepend: site.baseurl | prepend: site.url }}">Time-varying Combinations of Bayesian Dynamic Models and Equity Momentum Strategies</a> (published in Journal of Econometrics, 2018)
+Project: <a class="page-link" href="{{ '/projects/5_project/' | prepend: site.baseurl | prepend: site.url }}">Time-varying Combinations of Bayesian Dynamic Models and Equity Momentum Strategies</a>,  
+_joint with  [Nalan Baştürk](https://www.maastrichtuniversity.nl/n.basturk), [Stefano Grassi](https://sites.google.com/view/stefanograssi), [Lennart Hoogerheide](https://research.vu.nl/en/persons/lennart-hoogerheide) and [Herman K. van Dijk](https://personal.eur.nl/hkvandijk/)_  
+(published in Journal of Econometrics, 2018)
 
-Project: <a class="page-link" href="{{ '/projects/6_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Dynamic Modeling of High-Frequency Integer Price Changes</a> (published in Journal of Financial Econometrics, 2018)
+Project: <a class="page-link" href="{{ '/projects/6_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Dynamic Modeling of High-Frequency Integer Price Changes</a>,  
+_joint with Istv&aacute;n Barra and <a href="http://sjkoopman.net/" title="SJK">Siem Jan Koopman</a>_  
+(published in Journal of Financial Econometrics, 2018)
 
 ## Submitted and under revision
 
-Project: <a class="page-link" href="{{ '/projects/4_project/' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Accurate Left Tail Density Prediction</a>	(revision for Journal of Econometrics)
+Project: <a class="page-link" href="{{ '/projects/4_project/' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Accurate Left Tail Density Prediction</a>,  
+_joint with <a href="https://research.vu.nl/en/persons/lennart-hoogerheide" title="LH">Lennart Hoogerheide</a>, <a href="http://sjkoopman.net/" title="SJK">Siem Jan Koopman</a> and <a href="https://personal.eur.nl/hkvandijk/">Herman K. van Dijk</a>_  
+(revision for Journal of Econometrics)
 
-## Ongoing
+Project: <a class="page-link" href="{{ '/projects/2_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Forecasting for Long Horizons</a>,  
+_joint with [Lennart Hoogerheide](https://research.vu.nl/en/persons/lennart-hoogerheide) and [Siem Jan Koopman](http://sjkoopman.net/)_  
+(submitted)
 
-### Job Market Paper
-
-Project: <a class="page-link" href="{{ '/projects/2_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Evaluation for Long Horizons</a>
-
-### Work in progress
-* Project: <a class="page-link" href="{{ '/projects/8_project/' | prepend: site.baseurl | prepend: site.url }}">Gaussian Processes and ABC for Statistical Inference in Cell Migration SDE Systems</a> 
-* Project: <a class="page-link" href="{{ '/projects/7_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Optimisation for Left Ventricle Models</a> 	
-* Project: <a class="page-link" href="{{ '/projects/3_project/' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation</a> 
+## Work in progress
+* Project: <a class="page-link" href="{{ '/projects/8_project/' | prepend: site.baseurl | prepend: site.url }}">Gaussian Processes and ABC for Statistical Inference in Cell Migration SDE Systems</a>,  
+_joint with Diana Giurghita and [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)_
+* Project: <a class="page-link" href="{{ '/projects/7_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Optimisation for Left Ventricle Models</a>,  
+_joint with [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/), [Hao Gao](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao/) and [Xiaoyu Luo](https://www.maths.gla.ac.uk/~xl/)_
+* Project: <a class="page-link" href="{{ '/projects/3_project/' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation</a>,  
+_joint with [Ruth King](http://www.maths.ed.ac.uk/~rking33/)_ 
 * Project: <a class="page-link" href="{{ '/projects/1_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Evaluation in State Space Models</a>
 
 
 ## Conferences
-* [__Cside2 2018 Conference__](https://www.gla.ac.uk/schools/mathematicsstatistics/events/conferences/cside2018/),
+* [__Cside 2018 Conference__](https://www.gla.ac.uk/schools/mathematicsstatistics/events/conferences/cside2018/),
 Glasgow, UK, 26 November 2018
 * [__2nd Joint Liverpool-Glasgow Maths Healthcare Centre Meeting__](http://www.softmech.org/events/headline_587868_en.html),
 Liverpool, UK, 30 August 2018
