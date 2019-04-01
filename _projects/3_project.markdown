@@ -17,9 +17,9 @@ With [Ruth King](http://www.maths.ed.ac.uk/~rking33/).
 > Improving the efficiency of data augmentation for state space models. Combining data augmentation with numerical integration in a Bayesian hybrid approach to reduce a high autocorrelation in the posterior draws, typically leading to poor mixing of the MCMC algorithm.	
 
 
-<i class="fa fa-download fa-ld" aria-hidden="true"></i> Paper: <a class="page-link" href="{{ '/research/Borowska, King - Semi-Complete Data Augmentation for Efficient State Space Model Fitting.pdf' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation for Efficient State Space Model Fitting.pdf</a>
+<i class="fa fa-download fa-ld" aria-hidden="true"></i> Paper: <a class="page-link" href="{{ '/research/Borowska, King - Semi-Complete Data Augmentation for Efficient State Space Model Fitting.pdf' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation for Efficient State Space Model Fitting</a>
 
-<i class="fa fa-download fa-ld" aria-hidden="true"></i> Slides: <a class="page-link" href="{{ '/research/A.Borowska - Semi-Complete Data Augmentation for Efficient State Space Model Fitting.pdf' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation for Efficient State Space Model Fitting.pdf</a>
+<i class="fa fa-download fa-ld" aria-hidden="true"></i> Slides: <a class="page-link" href="{{ '/research/A.Borowska - Semi-Complete Data Augmentation for Efficient State Space Model Fitting.pdf' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation for Efficient State Space Model Fitting</a>
 
 <i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('scda')">_Abstract_</a>
 <div id="scda" style="display:none;">
