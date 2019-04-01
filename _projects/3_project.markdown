@@ -14,7 +14,7 @@ img: /assets/img/sv_hmm.jpg
    
 With [Ruth King](http://www.maths.ed.ac.uk/~rking33/).
 
-> Improving the efficiency of data augmentation for state space models. Combining data augmentation with numerical integration in a Bayesian hybrid approach to reduce a high autocorrelation in the posterior draws, typically leading to poor mixing of the MCMC algorithm.
+> Improving the efficiency of data augmentation for state space models. Combining data augmentation with numerical integration in a Bayesian hybrid approach to reduce a high autocorrelation in the posterior draws, typically leading to poor mixing of the MCMC algorithm.	
 
 
 <i class="fa fa-download fa-ld" aria-hidden="true"></i> Paper: <a class="page-link" href="{{ '/research/Borowska, King - Semi-Complete Data Augmentation for Efficient State Space Model Fitting.pdf' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation for Efficient State Space Model Fitting.pdf</a>
