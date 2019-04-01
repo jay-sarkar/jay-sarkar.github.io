@@ -43,6 +43,10 @@ _joint with [Ruth King](http://www.maths.ed.ac.uk/~rking33/)_
 
 
 ## Conferences
+* [__39th International Symposium on Forecasting__](https://isf.forecasters.org/) (scheduled),
+Thessaloniki, Greece, 16-19 June 2019
+* [__Workshop on uncertainty quantification for cardiac models__](http://www.newton.ac.uk/event/FHTW01) (scheduled), 
+Cambridge, UK, 5--7 June 2019
 * [__Cside 2018 Conference__](https://www.gla.ac.uk/schools/mathematicsstatistics/events/conferences/cside2018/),
 Glasgow, UK, 26 November 2018
 * [__2nd Joint Liverpool-Glasgow Maths Healthcare Centre Meeting__](http://www.softmech.org/events/headline_587868_en.html),
