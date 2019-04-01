@@ -32,7 +32,7 @@ Project: <a class="page-link" href="{{ '/projects/2_project/' | prepend: site.ba
 _joint with [Lennart Hoogerheide](https://research.vu.nl/en/persons/lennart-hoogerheide) and [Siem Jan Koopman](http://sjkoopman.net/)_  
 (submitted)
 
-## Work in progress
+### Work in progress
 * Project: <a class="page-link" href="{{ '/projects/8_project/' | prepend: site.baseurl | prepend: site.url }}">Gaussian Processes and ABC for Statistical Inference in Cell Migration SDE Systems</a>,  
 _joint with Diana Giurghita and [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)_
 * Project: <a class="page-link" href="{{ '/projects/7_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Optimisation for Left Ventricle Models</a>,  
