@@ -43,7 +43,7 @@ _joint with [Ruth King](http://www.maths.ed.ac.uk/~rking33/)_
 
 
 ### Conferences
-* [__10th European Seminar on Bayesian Econometrics__ (scheduled)](https://sites.google.com/view/esobe2019),
+* [__10th European Seminar on Bayesian Econometrics__ (ESOBE2019) (scheduled)](https://sites.google.com/view/esobe2019),
 St Andrews, UK, 2-3 September 2019
 * [__39th International Symposium on Forecasting__](https://isf.forecasters.org/),
 Thessaloniki, Greece, 16-19 June 2019
@@ -79,8 +79,12 @@ Amsterdam, The Netherlands, 24 May 2016
 Amsterdam, The Netherlands, 21 January 2016
  
 ### Theses
-* <a class="page-link" href="{{ '/research/A.Borowska - Dissertation Abstract.pdf' | prepend: site.baseurl | prepend: site.url }}">Methods for Bayesian Analysis of Time Series</a>, _PhD Thesis Abstract_
-
+* <a class="page-link" href="{{ '/research/A.Borowska - Methods for Accurate and Efficient Bayesian Analysis of Time Series.pdf' | prepend: site.baseurl | prepend: site.url }}">Methods for Accurate and Efficient Bayesian Analysis of Time Series</a>, _PhD Thesis_
+	<i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('mphil')">_Abstract_</a>
+	<div id="mphil" style="display:none;">
+	<p>  <div style="font-size:0.85em; text-align: justify;">  This thesis investigates Bayesian inference over time series models with the emphasis put on applications in economics and finance. We adopt simulation-based techniques which are necessary in any nontrival problem in this setting. The main motivation behind the presented research is to increase the effciency and accuracy of these computationally intensive methods in several different contexts. One of the main topics addressed is efficient and precise risk estimation, or rare event analysis. Another problem studied in this thesis is the efficiency of various sampling algorithms, in particular importance sampling (IS) and Markov chain Monte Carlo (MCMC) algorithms. Finally, we address the issue of  forecasting, from a single model as well as from a combination of models. </div> </p>
+	</div>
+	
 * <a class="page-link" href="{{ '/research/A.Borowska - Bayesian Risk Evaluation using Importance Sampling.pdf' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Evaluation using Importance Sampling</a>, _MPhil Thesis in Econometrics_
 
 	<i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('mphil')">_Abstract_</a>
