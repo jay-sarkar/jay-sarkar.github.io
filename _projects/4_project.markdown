@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Partially Censored Posterior
-description: Revision for J Econom
+description: Accepted in J Econom
 img: /assets/img/pcp.jpg
 ---
 	

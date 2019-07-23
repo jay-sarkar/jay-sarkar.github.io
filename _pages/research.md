@@ -14,6 +14,10 @@ description: Information about my research activities
 
 ### Published
 
+Project: <a class="page-link" href="{{ '/projects/4_project/' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Robust and Efficient Risk Evaluation</a>,  
+_joint with <a href="https://research.vu.nl/en/persons/lennart-hoogerheide" title="LH">Lennart Hoogerheide</a>, <a href="http://sjkoopman.net/" title="SJK">Siem Jan Koopman</a> and <a href="https://personal.eur.nl/hkvandijk/">Herman K. van Dijk</a>_  
+(accepted in Journal of Econometrics, 2019)
+
 Project: <a class="page-link" href="{{ '/projects/5_project/' | prepend: site.baseurl | prepend: site.url }}">Time-varying Combinations of Bayesian Dynamic Models and Equity Momentum Strategies</a>,  
 _joint with  [Nalan Baştürk](https://www.maastrichtuniversity.nl/n.basturk), [Stefano Grassi](https://sites.google.com/view/stefanograssi), [Lennart Hoogerheide](https://research.vu.nl/en/persons/lennart-hoogerheide) and [Herman K. van Dijk](https://personal.eur.nl/hkvandijk/)_  
 (published in Journal of Econometrics, 2018)
@@ -23,10 +27,6 @@ _joint with Istv&aacute;n Barra and <a href="http://sjkoopman.net/" title="SJK">
 (published in Journal of Financial Econometrics, 2018)
 
 ### Submitted and under revision
-
-Project: <a class="page-link" href="{{ '/projects/4_project/' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Accurate Left Tail Density Prediction</a>,  
-_joint with <a href="https://research.vu.nl/en/persons/lennart-hoogerheide" title="LH">Lennart Hoogerheide</a>, <a href="http://sjkoopman.net/" title="SJK">Siem Jan Koopman</a> and <a href="https://personal.eur.nl/hkvandijk/">Herman K. van Dijk</a>_  
-(revision for Journal of Econometrics)
 
 Project: <a class="page-link" href="{{ '/projects/2_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Forecasting for Long Horizons</a>,  
 _joint with [Lennart Hoogerheide](https://research.vu.nl/en/persons/lennart-hoogerheide) and [Siem Jan Koopman](http://sjkoopman.net/)_  
@@ -43,6 +43,8 @@ _joint with [Ruth King](http://www.maths.ed.ac.uk/~rking33/)_
 
 
 ### Conferences
+* [__10th European Seminar on Bayesian Econometrics__ (scheduled)](https://sites.google.com/view/esobe2019),
+St Andrews, UK, 2-3 September 2019
 * [__39th International Symposium on Forecasting__](https://isf.forecasters.org/),
 Thessaloniki, Greece, 16-19 June 2019
 * [__Workshop on uncertainty quantification for cardiac models__](http://www.newton.ac.uk/event/FHTW01), 
