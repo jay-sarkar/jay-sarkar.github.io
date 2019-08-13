@@ -6,7 +6,7 @@ description: My CV and education
 
 profile:
   align: right
-  image: aborowska_photo.jpg
+  image: 
 news: false
 social: false
 ---
