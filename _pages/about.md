@@ -6,7 +6,7 @@ description: <a href="www.linkedin.com/in/jaysarkar">LinkedIn</a> and <a href="h
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jsarkar.jpg
   address: >
     <p>jsarkar 'at' gmail 'dot' com</p>
 
