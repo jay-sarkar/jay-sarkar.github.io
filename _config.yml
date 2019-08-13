@@ -3,7 +3,6 @@
 # -----------------------------------------------------------------------------
 name: Jay Sarkar
 email: jsarkar@gmail.com
-# email: a.borowska@vu.nl
 
 description: > # this means to ignore newlines until "url:"
   Jay Sarkar's research website
@@ -55,11 +54,11 @@ enable_katex:       true
 # Collections
 # -----------------------------------------------------------------------------
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
+  #news:
+    #defaults:
+      #layout: post
+    #output: true
+    #permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
