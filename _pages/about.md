@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Jay Sarkar</strong>
-description: <a href="www.linkedin.com/in/jaysarkar">LinkedIn</a> and <a href="https://scholar.google.com/citations?user=wBRwFqAAAAAJ&hl=en&authuser=1">Google Scholar</a>
+description: <a href="https://www.linkedin.com/in/jaysarkar">LinkedIn</a> and <a href="https://scholar.google.com/citations?user=wBRwFqAAAAAJ&hl=en&authuser=1">Google Scholar</a>
 
 profile:
   align: right
