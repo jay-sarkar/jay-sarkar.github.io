@@ -1,26 +1,26 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Agnieszka Borowska
-email: Agnieszka.Borowska@glasgow.ac.uk
+name: Jay Sarkar
+email: jsarkar@gmail.com
 # email: a.borowska@vu.nl
 
 description: > # this means to ignore newlines until "url:"
-  Agnieszka Borowska's research website
+  Jay Sarkar's research website
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-url: https://aborowska.github.io # the base hostname & protocol for your site
+url: https://jay-sarkar.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 # url:  # the base hostname & protocol for your site
 # baseurl: /al-folio/ # the subpath of your site, e.g. /blog/
-last_updated: 13 March 2019 # leave blank if you don't want to display last updated
+last_updated: 13 August 2019 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: aborowska 
+github_username: jay-sarkar 
 # twitter_username: # put your twitter username
 # linkedin_username: # put your linkedin username
 # scholar_authorid: # put your google scholar author id
@@ -30,7 +30,7 @@ github_username: aborowska
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Agnieszka's notes
+blog_name: Jay's notes
 blog_description: Some notes about ideas I find interesting
 
 # Pagination
@@ -92,7 +92,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Borowska
+  last_name: Sarkar
 
   style: apa
   locale: en
