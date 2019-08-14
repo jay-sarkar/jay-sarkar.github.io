@@ -560,3 +560,6 @@ blockquote.style1 {
   color: #000000;
   border-left: 5px solid #FF3636;
 }
+
+body, a, p {color: #fff;}
+body, .site-header {background: #333;}
