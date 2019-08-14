@@ -48,7 +48,7 @@ disqus_shortname: # al-folio # put your disqus shortname
 # Optional features
 show_social_icons:  false
 enable_anchorjs:    false
-enable_katex:       true
+enable_katex:       false
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -77,9 +77,9 @@ markdown: kramdown
 highlighter: rouge
 
 # Includes
-include: ['_pages']
+#include: ['_pages']
 exclude: ['_posts']
-
+exclude: ['_pages']
 
 # Gems
 # gems:
