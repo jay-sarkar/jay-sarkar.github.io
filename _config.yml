@@ -19,7 +19,7 @@ last_updated: 13 August 2019 # leave blank if you don't want to display last upd
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: jay-sarkar 
+github_username: jay-sarkar
 # twitter_username: # put your twitter username
 linkedin_username: jaysarkar # put your linkedin username
 # scholar_authorid: # put your google scholar author id
@@ -53,7 +53,7 @@ enable_katex:       true
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
-collections:
+#collections:
   #news:
     #defaults:
       #layout: post
@@ -66,7 +66,7 @@ collections:
   #  output: true
   #  permalink: /teaching/:path/
 
-news_limit: 10
+#news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
