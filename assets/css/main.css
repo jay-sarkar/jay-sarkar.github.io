@@ -563,3 +563,5 @@ blockquote.style1 {
 
 body, a, p {color: #fff;}
 body, .site-header {background: #333;}
+
+a {color: white!important;}
