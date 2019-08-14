@@ -77,9 +77,9 @@ markdown: kramdown
 highlighter: rouge
 
 # Includes
-#include: ['_pages']
+include: ['_pages']
 exclude: ['_posts']
-exclude: ['_pages']
+exclude: ['_news']
 
 # Gems
 # gems:
