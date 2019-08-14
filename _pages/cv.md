@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV/Resume
-description: My CV and education
+title: CV
+description: My CV/resume and education
 
 profile:
   align: right
