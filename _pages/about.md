@@ -14,7 +14,7 @@ news: true
 social: true
 ---
 
-I do research on Machine Learning based approaches to solid-state storage technology and related system design, currently working at Western Digital Corporation.
+I do research and development on Machine Learning based approaches to solid-state storage technology and associated system design, currently working at Western Digital Corporation.
 
 #### My main research interests:
 
