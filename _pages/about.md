@@ -19,7 +19,7 @@ I work on research and development on Machine Learning based approaches to solid
 #### My main research interests:
 
 <ul>
-<li> Interpretable and Explanable Machine Learning</li>
+<li> Interpretable and explainable Machine Learning</li>
 <li> Prognostics and system health </li>
 <li> Resilient system design </li>
 <li> Physics, workloads and robustness of solid-state storage systems </li>
