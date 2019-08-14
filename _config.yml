@@ -22,7 +22,7 @@ last_updated: 13 August 2019 # leave blank if you don't want to display last upd
 github_username: jay-sarkar
 # twitter_username: # put your twitter username
 linkedin_username: jaysarkar # put your linkedin username
-# scholar_authorid: # put your google scholar author id
+scholar_authorid: wBRwFqAAAAAJ&hl # put your google scholar author id
 # contact_note: >
  # You can even add a little note about which of these is the best way to reach you.
 
@@ -53,12 +53,12 @@ enable_katex:       true
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
-#collections:
-  #news:
-    #defaults:
-      #layout: post
-    #output: true
-    #permalink: /news/:path/
+collections:
+  news:
+    defaults:
+      layout: post
+    output: false
+    permalink: /news/:path/
   #projects:
   #  output: true
   #  permalink: /projects/:path/
