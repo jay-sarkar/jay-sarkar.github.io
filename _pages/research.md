@@ -28,13 +28,13 @@ description: Information about my research activities
 
 <a href="https://aip.scitation.org/doi/full/10.1063/1.2821845" target="_blank"> “Evolution of Phase Change Memory characteristics with operating cycles: electrical characterization and physical modeling”</a> J. Sarkar and Bob Gleixner, Applied Physics Letters 91, p. 233506, 2007
 
-“Bio-nano approaches to fabricating quantum-dot floating gate flash memories”, S. Banerjee, Shan Tang, J. Sarkar, Davood Shahrjerdi, Chang Lee, International Conference on Solid State Devices and Materials 2007, Ibaraki, Japan (invited)
+<a href="http://www.ssdm.jp/2007/invited_strategic.html" target="_blank"> “Bio-nano approaches to fabricating quantum-dot floating gate flash memories”</a>, S. Banerjee, Shan Tang, J. Sarkar, Davood Shahrjerdi, Chang Lee, International Conference on Solid State Devices and Materials 2007, Ibaraki, Japan (invited)
 
-“Protein-mediated assembly of nanocrystal floating gate in a vertical flash cell”, J. Sarkar, Shan Tang, Domingo Garcia, Sanjay Banerjee, 22nd IEEE Non Volatile Semiconductor Memory Workshop 2007, p. 34 – 35
+<a href="https://ieeexplore.ieee.org/document/4290570" target="_blank"> “Protein-mediated assembly of nanocrystal floating gate in a vertical flash cell”</a>, J. Sarkar, Shan Tang, Domingo Garcia, Sanjay Banerjee, 22nd IEEE Non Volatile Semiconductor Memory Workshop 2007, p. 34 – 35
 
 “Flash memory with nanoparticle floating gate”, Sanjay Banerjee, Shan Tang, J. Sarkar, Davood Shahrjerdi, Chang Lee, Particles 2007, Toronto, Canada (invited)
 
-“Data retention characterization of Phase-Change Memory arrays”, B. Gleixner, A. Pirovano, J. Sarkar, F. Ottogalli, E. Tortorelli, M. Tosi and R. Bez, Proceedings of 45th Annual IEEE International Reliability Physics Symposium 2007, p. 542 - 546 (invited)
+<a href="https://ieeexplore.ieee.org/document/4227689" target="_blank"> “Data retention characterization of Phase-Change Memory arrays”</a>, B. Gleixner, A. Pirovano, J. Sarkar, F. Ottogalli, E. Tortorelli, M. Tosi and R. Bez, Proceedings of 45th Annual IEEE International Reliability Physics Symposium 2007, p. 542 - 546 (invited)
 
 “Vertical flash memory with nanocrystal floating gate for ultra-dense integration and good retention”, J. Sarkar, Sagnik Dey, Davood Shahrjerdi and Sanjay Banerjee, Electron Device Letters, 28, p. 449 – 451, 2007
 
