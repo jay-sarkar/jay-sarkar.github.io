@@ -16,11 +16,11 @@ social: true
 
 I work on research and development on Machine Learning based approaches to solid-state storage technology and associated system design, currently at Western Digital Corporation.
 
-#### My main research interests:
+#### My current research interests:
 
 <ul>
 <li> Interpretable and explainable Machine Learning</li>
 <li> Prognostics and system health </li>
 <li> Resilient system design </li>
-<li> Physics, workloads and robustness of solid-state storage systems </li>
+<li> Workloads and robustness of solid-state storage systems </li>
 </ul>
