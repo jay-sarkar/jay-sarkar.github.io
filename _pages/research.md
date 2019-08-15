@@ -14,7 +14,7 @@ description: Information about my research activities
 
 ### Published
 
-“Machine-Learned Assessment and Prediction of Robust Solid-State Storage System Reliability Physics”, Jay Sarkar, Cory Peterson and Amir Sanayei, 2018 International Reliability Physics Symposium (IRPS) March 2018, pp. 3C.6-1 – 3C.6-8.
+<a href="https://ieeexplore.ieee.org/document/8353565/"> “Machine-Learned Assessment and Prediction of Robust Solid-State Storage System Reliability Physics”</a>, Jay Sarkar, Cory Peterson and Amir Sanayei, 2018 International Reliability Physics Symposium (IRPS) March 2018, pp. 3C.6-1 – 3C.6-8.
 
 “Robust Error-Management and Impact of Throughput in Solid State Storage – Characterization and First System Reliability Model”, Jay Sarkar, Cory Peterson, Yao Zhang and Steve Lock, 2017 Annual Reliability and Maintainability Symposium (RAMS) 2017, pp. 1-6.
 
