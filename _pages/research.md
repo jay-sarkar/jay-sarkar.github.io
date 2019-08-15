@@ -32,11 +32,11 @@ description: Information about my research activities
 
 <a href="https://ieeexplore.ieee.org/document/4290570" target="_blank"> “Protein-mediated assembly of nanocrystal floating gate in a vertical flash cell”</a>, J. Sarkar, Shan Tang, Domingo Garcia, Sanjay Banerjee, 22nd IEEE Non Volatile Semiconductor Memory Workshop 2007, p. 34 – 35
 
-“Flash memory with nanoparticle floating gate”, Sanjay Banerjee, Shan Tang, J. Sarkar, Davood Shahrjerdi, Chang Lee, Particles 2007, Toronto, Canada (invited)
+<a href="http://www.nanoparticles.org/pdf/BanerjeeS.pdf" target="_blank"> “Flash memory with nanoparticle floating gate”, Sanjay Banerjee, Shan Tang, J. Sarkar, Davood Shahrjerdi, Chang Lee, Particles 2007, Toronto, Canada (invited)
 
 <a href="https://ieeexplore.ieee.org/document/4227689" target="_blank"> “Data retention characterization of Phase-Change Memory arrays”</a>, B. Gleixner, A. Pirovano, J. Sarkar, F. Ottogalli, E. Tortorelli, M. Tosi and R. Bez, Proceedings of 45th Annual IEEE International Reliability Physics Symposium 2007, p. 542 - 546 (invited)
 
-“Vertical flash memory with nanocrystal floating gate for ultra-dense integration and good retention”, J. Sarkar, Sagnik Dey, Davood Shahrjerdi and Sanjay Banerjee, Electron Device Letters, 28, p. 449 – 451, 2007
+<a href="https://ieeexplore.ieee.org/document/4160043" target="_blank"> “Vertical flash memory with nanocrystal floating gate for ultra-dense integration and good retention”</a>, J. Sarkar, Sagnik Dey, Davood Shahrjerdi and Sanjay Banerjee, Electron Device Letters, 28, p. 449 – 451, 2007
 
 <a href="https://aip.scitation.org/doi/10.1063/1.2711528" target="_blank"> “Vertical flash memory with protein-mediated assembly of nanocrystal floating gate”</a>, J. Sarkar, Shan Tang, Davood Shahrjerdi and Sanjay Banerjee, Applied Physics Letters, 90, p. 103512, 2007 – editorially selected for the Virtual Journal of Nanoscale Science and Technology, 15, issue 11 (March 19th, 2007) and the Virtual Journal of Biological Physics Research, 13, issue 6 (March 15th, 2007)
 
