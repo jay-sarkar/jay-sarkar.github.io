@@ -1,5 +1,5 @@
 <div class="news">
-  <h2>news</h2>
+
   {% if site.news  %}
     <table>
     {% assign news = site.news | reverse %}
@@ -17,6 +17,6 @@
     {% endfor %}
     </table>
   {% else %}
-    <p>No new news so far...</p>
+    
   {% endif %}
 </div>
