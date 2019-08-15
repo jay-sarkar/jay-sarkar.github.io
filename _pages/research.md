@@ -12,19 +12,21 @@ description: Information about my research activities
  }
 </script>
 
-### Published
+### Published peer-reviewed international conference and journal papers
 
-<a href="https://ieeexplore.ieee.org/document/8353565/"> “Machine-Learned Assessment and Prediction of Robust Solid-State Storage System Reliability Physics”</a>, Jay Sarkar, Cory Peterson and Amir Sanayei, 2018 International Reliability Physics Symposium (IRPS) March 2018, pp. 3C.6-1 – 3C.6-8.
+<a href="https://ieeexplore.ieee.org/document/8720510/" target="_blank"> "Operational Workload Impact on Solid-State Storage Analyzed with Interpretable Machine Learning"</a>, Jay Sarkar, Cory Peterson, 2019 International Reliability Physics Symposium (IRPS) April 2019, pp. 3C.6-1 – 3C.6-8.
 
-“Robust Error-Management and Impact of Throughput in Solid State Storage – Characterization and First System Reliability Model”, Jay Sarkar, Cory Peterson, Yao Zhang and Steve Lock, 2017 Annual Reliability and Maintainability Symposium (RAMS) 2017, pp. 1-6.
+<a href="https://ieeexplore.ieee.org/document/8353565/" target="_blank"> “Machine-Learned Assessment and Prediction of Robust Solid-State Storage System Reliability Physics”</a>, Jay Sarkar, Cory Peterson and Amir Sanayei, 2018 International Reliability Physics Symposium (IRPS) March 2018, pp. 3C.6-1 – 3C.6-8.
 
-“Reliability Characterization and Modeling of Solid State Storage”, Jay Sarkar and Frank Sun, 2015 Annual Reliability and Maintainability Symposium (RAMS), 2015, pp. 1-6.
+<a href="http://ieeexplore.ieee.org/document/7889748/" target="_blank"> “Robust Error-Management and Impact of Throughput in Solid State Storage – Characterization and First System Reliability Model”, Jay Sarkar, Cory Peterson, Yao Zhang and Steve Lock, 2017 Annual Reliability and Maintainability Symposium (RAMS) 2017, pp. 1-6.
 
-"Protein-Assembled Nanocrystal-Based Vertical Flash Memory Devices with Al2O3 Integration" , F. Ferdousi, J. Sarkar, S. Tang, D. Shahrjerdi, T. Akyol, E. Tutuc, S.K. Banerjee, Journal of Electronic Materials, 38, p. 438, 2009
+<a href="https://ieeexplore.ieee.org/document/7105166" target="_blank"> “Reliability Characterization and Modeling of Solid State Storage”, Jay Sarkar and Frank Sun, 2015 Annual Reliability and Maintainability Symposium (RAMS), 2015, pp. 1-6.
 
-“Vertical Flash memory devices with protein-assembled nanocrystal floating gate and Al2O3 control oxide”, F. Ferdousi, J. Sarkar, D. Shahrjerdi, T. Akyol, J. P. Donnelly, E. Tutuc, S. K. Banerjee, 66th IEEE Device Research Conference 2008
+<a href="https://link.springer.com/article/10.1007%2Fs11664-008-0645-7" target="_blank"> "Protein-Assembled Nanocrystal-Based Vertical Flash Memory Devices with Al2O3 Integration" , F. Ferdousi, J. Sarkar, S. Tang, D. Shahrjerdi, T. Akyol, E. Tutuc, S.K. Banerjee, Journal of Electronic Materials, 38, p. 438, 2009
 
-“Evolution of Phase Change Memory characteristics with operating cycles: electrical characterization and physical modeling” J. Sarkar and Bob Gleixner, Applied Physics Letters 91, p. 233506, 2007
+<a href="https://ieeexplore.ieee.org/document/4800732" target="_blank"> “Vertical Flash memory devices with protein-assembled nanocrystal floating gate and Al2O3 control oxide”, F. Ferdousi, J. Sarkar, D. Shahrjerdi, T. Akyol, J. P. Donnelly, E. Tutuc, S. K. Banerjee, 66th IEEE Device Research Conference 2008
+
+<a href="https://aip.scitation.org/doi/full/10.1063/1.2821845" target="_blank"> “Evolution of Phase Change Memory characteristics with operating cycles: electrical characterization and physical modeling” J. Sarkar and Bob Gleixner, Applied Physics Letters 91, p. 233506, 2007
 
 “Bio-nano approaches to fabricating quantum-dot floating gate flash memories”, S. Banerjee, Shan Tang, J. Sarkar, Davood Shahrjerdi, Chang Lee, International Conference on Solid State Devices and Materials 2007, Ibaraki, Japan (invited)
 
