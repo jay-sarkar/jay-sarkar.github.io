@@ -38,7 +38,7 @@ description: Information about my research activities
 
 “Vertical flash memory with nanocrystal floating gate for ultra-dense integration and good retention”, J. Sarkar, Sagnik Dey, Davood Shahrjerdi and Sanjay Banerjee, Electron Device Letters, 28, p. 449 – 451, 2007
 
-“Vertical flash memory with protein-mediated assembly of nanocrystal floating gate”, J. Sarkar, Shan Tang, Davood Shahrjerdi and Sanjay Banerjee, Applied Physics Letters, 90, p. 103512, 2007 – editorially selected for the Virtual Journal of Nanoscale Science and Technology, 15, issue 11 (March 19th, 2007) and the Virtual Journal of Biological Physics Research, 13, issue 6 (March 15th, 2007)
+<a href="https://aip.scitation.org/doi/10.1063/1.2711528" target="_blank"> “Vertical flash memory with protein-mediated assembly of nanocrystal floating gate”</a>, J. Sarkar, Shan Tang, Davood Shahrjerdi and Sanjay Banerjee, Applied Physics Letters, 90, p. 103512, 2007 – editorially selected for the Virtual Journal of Nanoscale Science and Technology, 15, issue 11 (March 19th, 2007) and the Virtual Journal of Biological Physics Research, 13, issue 6 (March 15th, 2007)
 
 “Vertical (3-D) flash memory with SiGe nanocrystal floating gate”, J. Sarkar, S. Dey, Y. Liu, D. Shahrjerdi, D. Q. Kelly and S. K. Banerjee, 64th IEEE Device Research Conference Digest 2006, p. 267 – 268
 
