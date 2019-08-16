@@ -8,7 +8,7 @@ profile:
   align: right
   image:
 news: false
-social: false
+social: true
 ---
 
 ### full CV
