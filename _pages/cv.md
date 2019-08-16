@@ -5,7 +5,7 @@ title: CV
 description: My CV/resume
 
 news: false
-social: true
+social: false
 ---
 
 ### full CV

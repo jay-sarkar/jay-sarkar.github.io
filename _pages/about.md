@@ -11,7 +11,7 @@ profile:
     <p>jsarkar 'at' gmail 'dot' com</p>
 
 news: false
-social: true
+social: false
 ---
 <div style="text-align: left"> My research interests encompass developing fundamentally influential, data-driven and model-based understanding and enablement of designs of novel systems, technologies and devices; - especially as focused on emerging solid-state storage, memory & compute architectures. With specific technical areas spanning interpretable/explainable machine learning, physical/statistical modeling & simulation, reliability science and solid-state electronics - I'm interested in first-principles and systems-thinking approaches. Most of my work has been at interfaces of science and engineering, and across interdisciplinary teams - while bearing meaningful practical impact on novel designs, technologies and products. I participate in refereed journal reviews and conference technical program committees, currently serving as chair of the System Reliability committee for <a href="https://irps.org" target="_blank"> IRPS 2020</a>.</div>
 Additional details are available in the <a href="https://jay-sarkar.github.io/research/">research page</a>.
