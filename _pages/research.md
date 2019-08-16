@@ -40,12 +40,12 @@ description: Information about my research activities
 
 <a href="https://aip.scitation.org/doi/10.1063/1.2711528" target="_blank"> “Vertical flash memory with protein-mediated assembly of nanocrystal floating gate”</a>, J. Sarkar, Shan Tang, Davood Shahrjerdi and Sanjay Banerjee, Applied Physics Letters, 90, p. 103512, 2007 – editorially selected for the Virtual Journal of Nanoscale Science and Technology, 15, issue 11 (March 19th, 2007) and the Virtual Journal of Biological Physics Research, 13, issue 6 (March 15th, 2007)
 
-“Vertical (3-D) flash memory with SiGe nanocrystal floating gate”, J. Sarkar, S. Dey, Y. Liu, D. Shahrjerdi, D. Q. Kelly and S. K. Banerjee, 64th IEEE Device Research Conference Digest 2006, p. 267 – 268
+<a href="https://ieeexplore.ieee.org/document/4097631" target="_blank">“Vertical (3-D) flash memory with SiGe nanocrystal floating gate”</a>, J. Sarkar, S. Dey, Y. Liu, D. Shahrjerdi, D. Q. Kelly and S. K. Banerjee, 64th IEEE Device Research Conference Digest 2006, p. 267 – 268
 
-“Fabrication of Self-Assembled Ni Nanocrystal Flash Memories Using a Polymeric Template”, D. Shahrjerdi, J. Sarkar, X. Gao, D. Q. Kelly, S. K. Banerjee, 64th IEEE Device Research Conference Digest, p. 269 – 270, 2006
+<a href="https://ieeexplore.ieee.org/document/4097632" target="_blank">“Fabrication of Self-Assembled Ni Nanocrystal Flash Memories Using a Polymeric Template”, D. Shahrjerdi, J. Sarkar, X. Gao, D. Q. Kelly, S. K. Banerjee, 64th IEEE Device Research Conference Digest, p. 269 – 270, 2006
 
-“Fabrication of Dense Ordered Arrays of Metal Dots for Flash Memory Application”, D. Shahrjerdi, J. Sarkar, S. K. Banerjee, Materials Research Society Spring Meeting, 2006
+<a href="https://nyuscholars.nyu.edu/en/publications/fabrication-of-dense-ordered-arrays-of-metal-dots-for-flash-memor" target="_blank"></a>“Fabrication of Dense Ordered Arrays of Metal Dots for Flash Memory Application”, D. Shahrjerdi, J. Sarkar, S. K. Banerjee, Materials Research Society Spring Meeting, 2006
 
-“Improved performance of SiGe nanocrystal memory with VARIOT tunnel barrier”, Y. Liu, S. Tang, S. Dey, D. Kelly, J. Sarkar, S. K. Banerjee, IEEE Transactions on Electron Devices, 53, p. 2598 – 2602, 2006
+<a href="https://ieeexplore.ieee.org/document/1705115" target="_blank">“Improved performance of SiGe nanocrystal memory with VARIOT tunnel barrier</a>”, Y. Liu, S. Tang, S. Dey, D. Kelly, J. Sarkar, S. K. Banerjee, IEEE Transactions on Electron Devices, 53, p. 2598 – 2602, 2006
 
-“Engineering the electromagnetic environment in a semiconductor nanostructure to study single electron tunneling oscillations”, J. Sarkar, Zhonqing Zhi, Alex Rimberg, APS Annual March Meeting, Montreal, 2004
+<a href="http://flux.aps.org/meetings/YR04/MAR04/baps/abs/S9170007.html" target="_blank">“Engineering the electromagnetic environment in a semiconductor nanostructure to study single electron tunneling oscillations”</a>, J. Sarkar, Zhonqing Zhi, Alex Rimberg, APS Annual March Meeting, Montreal, 2004
