@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: Information about my research activities
+description: Information about my research activities in the public domain
 ---
 
 <script type="text/javascript">
