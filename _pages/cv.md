@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: CV
-description: My CV/resume and education
+description: My CV/resume
 
 profile:
   align: right
@@ -13,6 +13,6 @@ social: false
 
 ### full CV
 
-You can find my full CV <a class="page-link" href="{{ '/cv/jsarkar_cv.pdf' | prepend: site.baseurl | prepend: site.url }}">here</a>  
+You can find my full CV <a class="page-link" href="{{ '/cv/JSarkar_CV.pdf' | prepend: site.baseurl | prepend: site.url }}">here</a>  
 
 ------
