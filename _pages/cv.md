@@ -7,6 +7,7 @@ description: My CV/resume
 profile:
   align: right
   image:
+
 news: false
 social: true
 ---
