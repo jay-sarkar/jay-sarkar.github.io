@@ -9,6 +9,7 @@ description: My research engagements in the public domain, as peer-reviewed pape
     e.style.display = (e.style.display == 'block') ? 'none' : 'block';
  }
 </script>
+---
 
 ### Published peer-reviewed international conference and journal papers
 
@@ -59,4 +60,3 @@ Data Storage Systems and Methods for Autonomously Adapting Data Storage System P
 [Maintenance Process to Enhance Memory Endurance](https://patentimages.storage.googleapis.com/bf/8b/75/fbb7447b9f31af/US8036016.pdf) - Issued, October 2011.
 
 [MEMS Device Encapsulation with Corner or Edge Seals](http://www.google.com/patents/US20140002964), Filed, June 2012.
-
