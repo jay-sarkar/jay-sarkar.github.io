@@ -42,3 +42,13 @@ description: My research engagements in the public domain, as peer-reviewed pape
 <a href="https://ieeexplore.ieee.org/document/1705115" target="_blank">“Improved performance of SiGe nanocrystal memory with VARIOT tunnel barrier</a>”, Y. Liu, S. Tang, S. Dey, D. Kelly, **J. Sarkar**, S. K. Banerjee, IEEE Transactions on Electron Devices, 53, p. 2598 – 2602, 2006
 
 <a href="http://flux.aps.org/meetings/YR04/MAR04/baps/abs/S9170007.html" target="_blank">“Engineering the electromagnetic environment in a semiconductor nanostructure to study single electron tunneling oscillations”</a>, **J. Sarkar**, Zhonqing Zhi, Alex Rimberg, APS Annual March Meeting, Montreal, 2004
+
+### Issued and Filed Patents
+
+Data Storage Systems and Methods for Autonomously Adapting Data Storage System Performance, Capacity and/or Operational Requirements - Filed, December 2018.
+
+[Method and System for a Storage (SSD) Drive-Level Failure and Health Prediction Leveraging Machine Learning on Internal Parametric Data](https://patentimages.storage.googleapis.com/0a/48/b3/c8368a515a52d1/US20190108888A1.pdf) - Filed, October 2017.
+
+[Maintenance Process to Enhance Memory Endurance](https://patentimages.storage.googleapis.com/bf/8b/75/fbb7447b9f31af/US8036016.pdf) - Issued, October 2011.
+
+[MEMS Device Encapsulation with Corner or Edge Seals](http://www.google.com/patents/US20140002964), Filed, June 2012.
