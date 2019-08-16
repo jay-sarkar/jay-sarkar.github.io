@@ -3,13 +3,6 @@ layout: page
 title: research
 permalink: /research/
 description: My research engagements in the public domain, as peer-reviewed papers and filed patents. Working in industrial research, a significant portion of my work is on intellectual property has been proprietary to my employers over the years.
-
-<script type="text/javascript">
- function showhide(id) {
-    var e = document.getElementById(id);
-    e.style.display = (e.style.display == 'block') ? 'none' : 'block';
- }
-</script>
 ---
 
 ### Published peer-reviewed international conference and journal papers
