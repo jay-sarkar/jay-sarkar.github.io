@@ -42,7 +42,7 @@ description: Information about my research activities in the public domain
 
 <a href="https://ieeexplore.ieee.org/document/4097631" target="_blank">“Vertical (3-D) flash memory with SiGe nanocrystal floating gate”</a>, J. Sarkar, S. Dey, Y. Liu, D. Shahrjerdi, D. Q. Kelly and S. K. Banerjee, 64th IEEE Device Research Conference Digest 2006, p. 267 – 268
 
-<a href="https://ieeexplore.ieee.org/document/4097632" target="_blank">“Fabrication of Self-Assembled Ni Nanocrystal Flash Memories Using a Polymeric Template”, D. Shahrjerdi, J. Sarkar, X. Gao, D. Q. Kelly, S. K. Banerjee, 64th IEEE Device Research Conference Digest, p. 269 – 270, 2006
+<a href="https://ieeexplore.ieee.org/document/4097632" target="_blank">“Fabrication of Self-Assembled Ni Nanocrystal Flash Memories Using a Polymeric Template”</a>, D. Shahrjerdi, J. Sarkar, X. Gao, D. Q. Kelly, S. K. Banerjee, 64th IEEE Device Research Conference Digest, p. 269 – 270, 2006
 
 <a href="https://nyuscholars.nyu.edu/en/publications/fabrication-of-dense-ordered-arrays-of-metal-dots-for-flash-memor" target="_blank">“Fabrication of Dense Ordered Arrays of Metal Dots for Flash Memory Application”</a>, D. Shahrjerdi, J. Sarkar, S. K. Banerjee, Materials Research Society Spring Meeting, 2006
 
