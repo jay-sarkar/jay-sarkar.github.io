@@ -7,8 +7,6 @@ description: My research engagements in the public domain, in the form of peer-r
 
 ### Published peer-reviewed international conference and journal papers
 
-
-
 -------
 
 **Solid-State Storage workload and throughput interaction with architecture and system design - modeling, machine-learned prognostics and robustness**
