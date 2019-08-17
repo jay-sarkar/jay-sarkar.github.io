@@ -45,7 +45,7 @@ description: My research engagements in the public domain, in the form of peer-r
 
 <a href="https://ieeexplore.ieee.org/document/4800732" target="_blank"> “Vertical Flash memory devices with protein-assembled nanocrystal floating gate and Al2O3 control oxide”</a>, F. Ferdousi, **J. Sarkar**, D. Shahrjerdi, T. Akyol, J. P. Donnelly, E. Tutuc, S. K. Banerjee, 66th IEEE Device Research Conference 2008
 
-<a href="http://www.ssdm.jp/2007/invited_strategic.html" target="_blank"> “**[Invited]** Bio-nano approaches to fabricating quantum-dot floating gate flash memories”</a>, S. Banerjee, Shan Tang, **J. Sarkar**, Davood Shahrjerdi, Chang Lee, International Conference on Solid State Devices and Materials 2007, Ibaraki, Japan (invited)
+<a href="http://www.ssdm.jp/2007/invited_strategic.html" target="_blank"> “**[Invited]** Bio-nano approaches to fabricating quantum-dot floating gate flash memories”</a>, S. Banerjee, Shan Tang, **J. Sarkar**, Davood Shahrjerdi, Chang Lee, International Conference on Solid State Devices and Materials 2007, Ibaraki, Japan
 
 <a href="https://ieeexplore.ieee.org/document/4290570" target="_blank"> “Protein-mediated assembly of nanocrystal floating gate in a vertical flash cell”</a>, **J. Sarkar**, Shan Tang, Domingo Garcia, Sanjay Banerjee, 22nd IEEE Non Volatile Semiconductor Memory Workshop 2007, p. 34 – 35
 
