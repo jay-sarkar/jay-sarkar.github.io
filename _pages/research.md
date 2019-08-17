@@ -25,7 +25,7 @@ description: My research engagements in the public domain, in the form of peer-r
 
 *<u>**3-D NAND Flash with biologically self-assembled nanocrystal floating gate**</u>*
 
-*<u><a href="https://link.springer.com/article/10.1007%2Fs11664-008-0645-7" target="_blank"> "Protein-Assembled Nanocrystal-Based Vertical Flash Memory Devices with Al2O3 Integration"</a>, F. Ferdousi, **J. Sarkar**, S. Tang, D. Shahrjerdi, T. Akyol, E. Tutuc, S.K. Banerjee, Journal of Electronic Materials, 38, p. 438, 2009*</u>
+<a href="https://link.springer.com/article/10.1007%2Fs11664-008-0645-7" target="_blank"> "Protein-Assembled Nanocrystal-Based Vertical Flash Memory Devices with Al2O3 Integration"</a>, F. Ferdousi, **J. Sarkar**, S. Tang, D. Shahrjerdi, T. Akyol, E. Tutuc, S.K. Banerjee, Journal of Electronic Materials, 38, p. 438, 2009*
 
 <a href="https://ieeexplore.ieee.org/document/4800732" target="_blank"> “Vertical Flash memory devices with protein-assembled nanocrystal floating gate and Al2O3 control oxide”</a>, F. Ferdousi, **J. Sarkar**, D. Shahrjerdi, T. Akyol, J. P. Donnelly, E. Tutuc, S. K. Banerjee, 66th IEEE Device Research Conference 2008
 
