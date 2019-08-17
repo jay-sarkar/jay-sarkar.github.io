@@ -53,16 +53,16 @@ description: My research engagements in the public domain, in the form of peer-r
 
 ### Issued and Filed Patents
 
-<u>**Solid-State Data Storage Systems Prognostics and Autonomous Design**</u>
+<u>Solid-State Data Storage Systems Prognostics and Autonomous Design</u>
 
 Data Storage Systems and Methods for Autonomously Adapting Data Storage System Performance, Capacity and/or Operational Requirements - Filed, December 2018.
 
 [Method and System for a Storage (SSD) Drive-Level Failure and Health Prediction Leveraging Machine Learning on Internal Parametric Data](https://patentimages.storage.googleapis.com/0a/48/b3/c8368a515a52d1/US20190108888A1.pdf) - Filed, October 2017.
 
-<u>**Phase Change (Optane) Memory**</u>
+<u>Phase Change (Optane) Memory</u>
 
-Maintenance Process to Enhance Memory Endurance - Issued, October 2011.
+[Maintenance Process to Enhance Memory Endurance](https://patentimages.storage.googleapis.com/bf/8b/75/fbb7447b9f31af/US8036016.pdf) - Issued, October 2011.
 
-<u>**MEMS Display**</u>
+<u>MEMS Display</u>
 
-MEMS Device Encapsulation with Corner or Edge Seals, Filed, June 2012.
+[MEMS Device Encapsulation with Corner or Edge Seals](https://patentimages.storage.googleapis.com/88/4f/57/e56a185908c73d/US20140002964A1.pdf), Filed, June 2012.
