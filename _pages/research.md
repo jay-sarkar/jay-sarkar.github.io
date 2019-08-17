@@ -29,7 +29,7 @@ description: My research engagements in the public domain, in the form of peer-r
 
 -------
 
-“[Evolution of Phase Change Memory characteristics with operating cycles: electrical characterization and physical modeling](https://aip.scitation.org/doi/10.1063/1.2821845)” **J. Sarkar** and Bob Gleixner, Applied Physics Letters 91, p. 233506, 2007
+<a href="https://aip.scitation.org/doi/10.1063/1.2821845" target="_blank">“Evolution of Phase Change Memory characteristics with operating cycles: electrical characterization and physical modeling”</a>, J. Sarkar and Bob Gleixner, Applied Physics Letters 91, p. 233506, 2007
 
 <a href="https://ieeexplore.ieee.org/document/4227689" target="_blank"> “**[Invited]** Data retention characterization of Phase-Change Memory arrays”</a>, B. Gleixner, A. Pirovano, **J. Sarkar**, F. Ottogalli, E. Tortorelli, M. Tosi and R. Bez, Proceedings of 45th Annual IEEE International Reliability Physics Symposium 2007, p. 542 - 546
 
@@ -41,7 +41,7 @@ description: My research engagements in the public domain, in the form of peer-r
 
 ------
 
-"[Protein-Assembled Nanocrystal-Based Vertical Flash Memory Devices with Al2O3 Integration](https://link.springer.com/article/10.1007/s11664-008-0645-7)", F. Ferdousi, **J. Sarkar**, S. Tang, D. Shahrjerdi, T. Akyol, E. Tutuc, S.K. Banerjee, Journal of Electronic Materials, 38, p. 438, 2009
+<a href="https://link.springer.com/article/10.1007/s11664-008-0645-7" target="_blank">"Protein-Assembled Nanocrystal-Based Vertical Flash Memory Devices with Al2O3 Integration"</a>, F. Ferdousi, **J. Sarkar**, S. Tang, D. Shahrjerdi, T. Akyol, E. Tutuc, S.K. Banerjee, Journal of Electronic Materials, 38, p. 438, 2009
 
 <a href="https://ieeexplore.ieee.org/document/4800732" target="_blank"> “Vertical Flash memory devices with protein-assembled nanocrystal floating gate and Al2O3 control oxide”</a>, F. Ferdousi, **J. Sarkar**, D. Shahrjerdi, T. Akyol, J. P. Donnelly, E. Tutuc, S. K. Banerjee, 66th IEEE Device Research Conference 2008
 
