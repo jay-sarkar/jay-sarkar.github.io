@@ -21,7 +21,7 @@ description: My research engagements in the public domain, in the form of peer-r
 
 <a href="https://ieeexplore.ieee.org/document/7105166" target="_blank"> “Reliability Characterization and Modeling of Solid State Storage”</a>, **Jay Sarkar** and Frank Sun, 2015 Annual Reliability and Maintainability Symposium (RAMS), 2015, pp. 1-6.
 
-
+ 
 
 
 
@@ -35,7 +35,7 @@ description: My research engagements in the public domain, in the form of peer-r
 
 <a href="https://ieeexplore.ieee.org/document/4227689" target="_blank"> “**[Invited]** Data retention characterization of Phase-Change Memory arrays”</a>, B. Gleixner, A. Pirovano, **J. Sarkar**, F. Ottogalli, E. Tortorelli, M. Tosi and R. Bez, Proceedings of 45th Annual IEEE International Reliability Physics Symposium 2007, p. 542 - 546
 
-
+ 
 
 
 
@@ -69,7 +69,7 @@ description: My research engagements in the public domain, in the form of peer-r
 
 <a href="http://flux.aps.org/meetings/YR04/MAR04/baps/abs/S9170007.html" target="_blank">“Engineering the electromagnetic environment in a semiconductor nanostructure to study single electron tunneling oscillations”</a>, **J. Sarkar**, Zhonqing Zhi, Alex Rimberg, APS Annual March Meeting, Montreal, 2004
 
-
+  
 
 
 
