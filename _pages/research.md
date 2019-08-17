@@ -9,7 +9,7 @@ description: My research engagements in the public domain, in the form of peer-r
 
 
 
-<u>Solid-State Storage workload and throughput interaction with architecture and system design - modeling, machine-learned prognostics and robustness</u>
+**Solid-State Storage workload and throughput interaction with architecture and system design - modeling, machine-learned prognostics and robustness**
 
 
 
@@ -23,7 +23,7 @@ description: My research engagements in the public domain, in the form of peer-r
 
 
 
-<u>Phase-Change (Optane) memory fundamental physics and materials science - characterization and modeling</u>
+**Phase-Change (Optane) memory fundamental physics and materials science - characterization and modeling**
 
 
 
@@ -33,7 +33,7 @@ description: My research engagements in the public domain, in the form of peer-r
 
 
 
-<u>3-D NAND Flash with (biologically) self-assembled nanocrystal floating gate - design, fabrication and characterization</u>
+**3-D NAND Flash with (biologically) self-assembled nanocrystal floating gate - design, fabrication and characterization**
 
 
 
