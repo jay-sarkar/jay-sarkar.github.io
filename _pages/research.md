@@ -9,9 +9,9 @@ description: My research engagements in the public domain, in the form of peer-r
 
 
 
-**Solid-State Storage workload and throughput interaction with architecture and system design - modeling, machine-learned prognostics and robustness**
+Solid-State Storage workload and throughput interaction with architecture and system design - modeling, machine-learned prognostics and robustness
 
-
+-------
 
 <a href="https://ieeexplore.ieee.org/document/8720510" target="_blank">"Operational Workload Impact on Solid-State Storage Analyzed with Interpretable Machine Learning"</a>, **Jay Sarkar**, Cory Peterson, 2019 International Reliability Physics Symposium (IRPS) April 2019, pp. 3C.6-1 – 3C.6-8.
 
@@ -25,7 +25,7 @@ description: My research engagements in the public domain, in the form of peer-r
 
 **Phase-Change (Optane) memory fundamental physics and materials science - characterization and modeling**
 
-
+-------
 
 “[Evolution of Phase Change Memory characteristics with operating cycles: electrical characterization and physical modeling](https://aip.scitation.org/doi/10.1063/1.2821845)” **J. Sarkar** and Bob Gleixner, Applied Physics Letters 91, p. 233506, 2007
 
@@ -35,7 +35,7 @@ description: My research engagements in the public domain, in the form of peer-r
 
 **3-D NAND Flash with (biologically) self-assembled nanocrystal floating gate - design, fabrication and characterization**
 
-
+------
 
 "[Protein-Assembled Nanocrystal-Based Vertical Flash Memory Devices with Al2O3 Integration](https://link.springer.com/article/10.1007/s11664-008-0645-7)", F. Ferdousi, **J. Sarkar**, S. Tang, D. Shahrjerdi, T. Akyol, E. Tutuc, S.K. Banerjee, Journal of Electronic Materials, 38, p. 438, 2009
 
@@ -65,9 +65,11 @@ description: My research engagements in the public domain, in the form of peer-r
 
 ### Issued and Filed Patents
 
-
+-------
 
 **Solid-State Data Storage Systems Prognostics and Autonomous Design**
+
+---------
 
 Data Storage Systems and Methods for Autonomously Adapting Data Storage System Performance, Capacity and/or Operational Requirements - Filed, December 2018.
 
@@ -77,10 +79,14 @@ Data Storage Systems and Methods for Autonomously Adapting Data Storage System P
 
 **Phase Change (Optane) Memory**
 
+-----
+
 [Maintenance Process to Enhance Memory Endurance](https://patentimages.storage.googleapis.com/bf/8b/75/fbb7447b9f31af/US8036016.pdf) - Issued, October 2011.
 
 
 
 **MEMS Display**
+
+------
 
 [MEMS Device Encapsulation with Corner or Edge Seals](https://patentimages.storage.googleapis.com/88/4f/57/e56a185908c73d/US20140002964A1.pdf), Filed, June 2012.
