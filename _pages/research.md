@@ -7,9 +7,9 @@ description: My research engagements in the public domain, in the form of peer-r
 
 ### Published peer-reviewed international conference and journal papers
 
-<u>***Solid-State Storage workload and throughput interaction with architecture, system robustness***</u>
+<u>**Solid-State Storage workload and throughput interaction with architecture, system robustness**</u>
 
-<a href="https://ieeexplore.ieee.org/document/8720510/" target="_blank"> "Operational Workload Impact on Solid-State Storage Analyzed with Interpretable Machine Learning"</a>, **Jay Sarkar**, Cory Peterson, 2019 International Reliability Physics Symposium (IRPS) April 2019, pp. 3C.6-1 – 3C.6-8.
+ "Operational Workload Impact on Solid-State Storage Analyzed with Interpretable Machine Learning", Jay Sarkar, Cory Peterson, 2019 International Reliability Physics Symposium (IRPS) April 2019, pp. 3C.6-1 – 3C.6-8.
 
 <a href="https://ieeexplore.ieee.org/document/8353565/" target="_blank"> “Machine-Learned Assessment and Prediction of Robust Solid-State Storage System Reliability Physics”</a>, **Jay Sarkar**, Cory Peterson and Amir Sanayei, 2018 International Reliability Physics Symposium (IRPS) March 2018, pp. 3C.6-1 – 3C.6-8.
 
@@ -17,15 +17,15 @@ description: My research engagements in the public domain, in the form of peer-r
 
 <a href="https://ieeexplore.ieee.org/document/7105166" target="_blank"> “Reliability Characterization and Modeling of Solid State Storage”</a>, **Jay Sarkar** and Frank Sun, 2015 Annual Reliability and Maintainability Symposium (RAMS), 2015, pp. 1-6.
 
-<u>***Phase-Change (Optane) memory fundamental physics and materials science***</u>
+<u>**Phase-Change (Optane) memory fundamental physics and materials science**</u>
 
-<a href="https://aip.scitation.org/doi/full/10.1063/1.2821845" target="_blank"> “Evolution of Phase Change Memory characteristics with operating cycles: electrical characterization and physical modeling”</a> **J. Sarkar** and Bob Gleixner, Applied Physics Letters 91, p. 233506, 2007
+ “Evolution of Phase Change Memory characteristics with operating cycles: electrical characterization and physical modeling” J. Sarkar and Bob Gleixner, Applied Physics Letters 91, p. 233506, 2007
 
 <a href="https://ieeexplore.ieee.org/document/4227689" target="_blank"> “Data retention characterization of Phase-Change Memory arrays”</a>, B. Gleixner, A. Pirovano, **J. Sarkar**, F. Ottogalli, E. Tortorelli, M. Tosi and R. Bez, Proceedings of 45th Annual IEEE International Reliability Physics Symposium 2007, p. 542 - 546 (invited)
 
-*<u>**3-D NAND Flash with biologically self-assembled nanocrystal floating gate**</u>*
+<u>**3-D NAND Flash with biologically self-assembled nanocrystal floating gate**</u>
 
-<a href="https://link.springer.com/article/10.1007%2Fs11664-008-0645-7" target="_blank"> "Protein-Assembled Nanocrystal-Based Vertical Flash Memory Devices with Al2O3 Integration"</a>, F. Ferdousi, **J. Sarkar**, S. Tang, D. Shahrjerdi, T. Akyol, E. Tutuc, S.K. Banerjee, Journal of Electronic Materials, 38, p. 438, 2009*
+ "Protein-Assembled Nanocrystal-Based Vertical Flash Memory Devices with Al2O3 Integration", F. Ferdousi, J. Sarkar, S. Tang, D. Shahrjerdi, T. Akyol, E. Tutuc, S.K. Banerjee, Journal of Electronic Materials, 38, p. 438, 2009*
 
 <a href="https://ieeexplore.ieee.org/document/4800732" target="_blank"> “Vertical Flash memory devices with protein-assembled nanocrystal floating gate and Al2O3 control oxide”</a>, F. Ferdousi, **J. Sarkar**, D. Shahrjerdi, T. Akyol, J. P. Donnelly, E. Tutuc, S. K. Banerjee, 66th IEEE Device Research Conference 2008
 
@@ -51,16 +51,16 @@ description: My research engagements in the public domain, in the form of peer-r
 
 ### Issued and Filed Patents
 
-*<u>**Solid-State Data Storage Systems Prognostics and Autonomous Design**</u>* 
+<u>**Solid-State Data Storage Systems Prognostics and Autonomous Design**</u> 
 
 Data Storage Systems and Methods for Autonomously Adapting Data Storage System Performance, Capacity and/or Operational Requirements - Filed, December 2018.
 
 [Method and System for a Storage (SSD) Drive-Level Failure and Health Prediction Leveraging Machine Learning on Internal Parametric Data](https://patentimages.storage.googleapis.com/0a/48/b3/c8368a515a52d1/US20190108888A1.pdf) - Filed, October 2017.
 
-*<u>**Phase Change (Optane) Memory**</u>*
+<u>**Phase Change (Optane) Memory**</u>
 
-[Maintenance Process to Enhance Memory Endurance](https://patentimages.storage.googleapis.com/bf/8b/75/fbb7447b9f31af/US8036016.pdf) - Issued, October 2011.
+Maintenance Process to Enhance Memory Endurance - Issued, October 2011.
 
-**<u>*MEMS Display*</u>**
+<u>**MEMS Display**</u>
 
-[MEMS Device Encapsulation with Corner or Edge Seals](http://www.google.com/patents/US20140002964), Filed, June 2012.
+MEMS Device Encapsulation with Corner or Edge Seals, Filed, June 2012.
