@@ -31,7 +31,9 @@ description: My research engagements in the public domain, in the form of peer-r
 
 “[Evolution of Phase Change Memory characteristics with operating cycles: electrical characterization and physical modeling](https://aip.scitation.org/doi/10.1063/1.2821845)” **J. Sarkar** and Bob Gleixner, Applied Physics Letters 91, p. 233506, 2007
 
-<a href="https://ieeexplore.ieee.org/document/4227689" target="_blank"> “Data retention characterization of Phase-Change Memory arrays”</a>, B. Gleixner, A. Pirovano, **J. Sarkar**, F. Ottogalli, E. Tortorelli, M. Tosi and R. Bez, Proceedings of 45th Annual IEEE International Reliability Physics Symposium 2007, p. 542 - 546 (invited)
+<a href="https://ieeexplore.ieee.org/document/4227689" target="_blank"> “**[Invited]** Data retention characterization of Phase-Change Memory arrays”</a>, B. Gleixner, A. Pirovano, **J. Sarkar**, F. Ottogalli, E. Tortorelli, M. Tosi and R. Bez, Proceedings of 45th Annual IEEE International Reliability Physics Symposium 2007, p. 542 - 546
+
+
 
 ------
 
@@ -47,11 +49,11 @@ description: My research engagements in the public domain, in the form of peer-r
 
 <a href="https://ieeexplore.ieee.org/document/4290570" target="_blank"> “Protein-mediated assembly of nanocrystal floating gate in a vertical flash cell”</a>, **J. Sarkar**, Shan Tang, Domingo Garcia, Sanjay Banerjee, 22nd IEEE Non Volatile Semiconductor Memory Workshop 2007, p. 34 – 35
 
-<a href="http://www.nanoparticles.org/pdf/BanerjeeS.pdf" target="_blank"> “Flash memory with nanoparticle floating gate”</a>, Sanjay Banerjee, Shan Tang, **J. Sarkar**, Davood Shahrjerdi, Chang Lee, Particles 2007, Toronto, Canada (invited)
+<a href="http://www.nanoparticles.org/pdf/BanerjeeS.pdf" target="_blank"> “**[Invited]** Flash memory with nanoparticle floating gate”</a>, Sanjay Banerjee, Shan Tang, **J. Sarkar**, Davood Shahrjerdi, Chang Lee, Particles 2007, Toronto, Canada
 
 <a href="https://ieeexplore.ieee.org/document/4160043" target="_blank"> “Vertical flash memory with nanocrystal floating gate for ultra-dense integration and good retention”</a>, **J. Sarkar**, Sagnik Dey, Davood Shahrjerdi and Sanjay Banerjee, Electron Device Letters, 28, p. 449 – 451, 2007
 
-<a href="https://aip.scitation.org/doi/10.1063/1.2711528" target="_blank"> “Vertical flash memory with protein-mediated assembly of nanocrystal floating gate”</a>, **J. Sarkar**, Shan Tang, Davood Shahrjerdi and Sanjay Banerjee, Applied Physics Letters, 90, p. 103512, 2007 – editorially selected for the Virtual Journal of Nanoscale Science and Technology, 15, issue 11 (March 19th, 2007) and the Virtual Journal of Biological Physics Research, 13, issue 6 (March 15th, 2007)
+<a href="https://aip.scitation.org/doi/10.1063/1.2711528" target="_blank"> “Vertical flash memory with protein-mediated assembly of nanocrystal floating gate”</a>, **J. Sarkar**, Shan Tang, Davood Shahrjerdi and Sanjay Banerjee, Applied Physics Letters, 90, p. 103512, 2007 – **editorially selected** for the Virtual Journal of Nanoscale Science and Technology, 15, issue 11 (March 19th, 2007) and the Virtual Journal of Biological Physics Research, 13, issue 6 (March 15th, 2007)
 
 <a href="https://ieeexplore.ieee.org/document/4097631" target="_blank">“Vertical (3-D) flash memory with SiGe nanocrystal floating gate”</a>, **J. Sarkar**, S. Dey, Y. Liu, D. Shahrjerdi, D. Q. Kelly and S. K. Banerjee, 64th IEEE Device Research Conference Digest 2006, p. 267 – 268
 
