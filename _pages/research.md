@@ -22,18 +22,19 @@ description: My research engagements in the public domain, in the form of peer-r
 <a href="https://ieeexplore.ieee.org/document/7105166" target="_blank"> “Reliability Characterization and Modeling of Solid State Storage”</a>, **Jay Sarkar** and Frank Sun, 2015 Annual Reliability and Maintainability Symposium (RAMS), 2015, pp. 1-6.
 &nbsp;
 
+<br/> <br/> 
 
 ----
 
 **Phase-Change (Optane) memory fundamental physics and materials science - characterization and modeling**
 
 -------
-
 <a href="https://aip.scitation.org/doi/10.1063/1.2821845" target="_blank">“Evolution of Phase Change Memory characteristics with operating cycles: electrical characterization and physical modeling”</a>, J. Sarkar and Bob Gleixner, Applied Physics Letters 91, p. 233506, 2007
 
 <a href="https://ieeexplore.ieee.org/document/4227689" target="_blank"> “**[Invited]** Data retention characterization of Phase-Change Memory arrays”</a>, B. Gleixner, A. Pirovano, **J. Sarkar**, F. Ottogalli, E. Tortorelli, M. Tosi and R. Bez, Proceedings of 45th Annual IEEE International Reliability Physics Symposium 2007, p. 542 - 546
 &nbsp;
 
+<br/> <br/> 
 
 ------
 
@@ -64,8 +65,8 @@ description: My research engagements in the public domain, in the form of peer-r
 <a href="https://ieeexplore.ieee.org/document/1705115" target="_blank">“Improved performance of SiGe nanocrystal memory with VARIOT tunnel barrier</a>”, Y. Liu, S. Tang, S. Dey, D. Kelly, **J. Sarkar**, S. K. Banerjee, IEEE Transactions on Electron Devices, 53, p. 2598 – 2602, 2006
 
 <a href="http://flux.aps.org/meetings/YR04/MAR04/baps/abs/S9170007.html" target="_blank">“Engineering the electromagnetic environment in a semiconductor nanostructure to study single electron tunneling oscillations”</a>, **J. Sarkar**, Zhonqing Zhi, Alex Rimberg, APS Annual March Meeting, Montreal, 2004
-&nbsp;
 
+<br/><br/> 
 
 ------
 
@@ -81,7 +82,7 @@ Data Storage Systems and Methods for Autonomously Adapting Data Storage System P
 
 [Method and System for a Storage (SSD) Drive-Level Failure and Health Prediction Leveraging Machine Learning on Internal Parametric Data](https://patentimages.storage.googleapis.com/0a/48/b3/c8368a515a52d1/US20190108888A1.pdf) - Filed, October 2017.
 
-
+<br/><br/> 
 
 ------
 
@@ -91,7 +92,7 @@ Data Storage Systems and Methods for Autonomously Adapting Data Storage System P
 
 [Maintenance Process to Enhance Memory Endurance](https://patentimages.storage.googleapis.com/bf/8b/75/fbb7447b9f31af/US8036016.pdf) - Issued, October 2011.
 
-
+<br/> <br/>
 
 -------
 
