@@ -67,7 +67,7 @@ description: My research engagements in the public domain, in the form of peer-r
 
 
 
-<u>Solid-State Data Storage Systems Prognostics and Autonomous Design</u>
+**Solid-State Data Storage Systems Prognostics and Autonomous Design**
 
 Data Storage Systems and Methods for Autonomously Adapting Data Storage System Performance, Capacity and/or Operational Requirements - Filed, December 2018.
 
@@ -75,12 +75,12 @@ Data Storage Systems and Methods for Autonomously Adapting Data Storage System P
 
 
 
-<u>Phase Change (Optane) Memory</u>
+**Phase Change (Optane) Memory**
 
 [Maintenance Process to Enhance Memory Endurance](https://patentimages.storage.googleapis.com/bf/8b/75/fbb7447b9f31af/US8036016.pdf) - Issued, October 2011.
 
 
 
-<u>MEMS Display</u>
+**MEMS Display**
 
 [MEMS Device Encapsulation with Corner or Edge Seals](https://patentimages.storage.googleapis.com/88/4f/57/e56a185908c73d/US20140002964A1.pdf), Filed, June 2012.
