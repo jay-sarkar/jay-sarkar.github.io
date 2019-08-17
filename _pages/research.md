@@ -82,8 +82,6 @@ Data Storage Systems and Methods for Autonomously Adapting Data Storage System P
 
 [Method and System for a Storage (SSD) Drive-Level Failure and Health Prediction Leveraging Machine Learning on Internal Parametric Data](https://patentimages.storage.googleapis.com/0a/48/b3/c8368a515a52d1/US20190108888A1.pdf) - Filed, October 2017.
 
-<br/>
-
 ------
 
 **Phase Change (Optane) Memory**
@@ -91,8 +89,6 @@ Data Storage Systems and Methods for Autonomously Adapting Data Storage System P
 -----
 
 [Maintenance Process to Enhance Memory Endurance](https://patentimages.storage.googleapis.com/bf/8b/75/fbb7447b9f31af/US8036016.pdf) - Issued, October 2011.
-
-<br/>
 
 -------
 
