@@ -9,7 +9,9 @@ description: My research engagements in the public domain, in the form of peer-r
 
 
 
-Solid-State Storage workload and throughput interaction with architecture and system design - modeling, machine-learned prognostics and robustness
+-------
+
+**Solid-State Storage workload and throughput interaction with architecture and system design - modeling, machine-learned prognostics and robustness**
 
 -------
 
@@ -23,6 +25,8 @@ Solid-State Storage workload and throughput interaction with architecture and sy
 
 
 
+----
+
 **Phase-Change (Optane) memory fundamental physics and materials science - characterization and modeling**
 
 -------
@@ -31,9 +35,9 @@ Solid-State Storage workload and throughput interaction with architecture and sy
 
 <a href="https://ieeexplore.ieee.org/document/4227689" target="_blank"> “Data retention characterization of Phase-Change Memory arrays”</a>, B. Gleixner, A. Pirovano, **J. Sarkar**, F. Ottogalli, E. Tortorelli, M. Tosi and R. Bez, Proceedings of 45th Annual IEEE International Reliability Physics Symposium 2007, p. 542 - 546 (invited)
 
+------
 
-
-**3-D NAND Flash with (biologically) self-assembled nanocrystal floating gate - design, fabrication and characterization**
+**3-D NAND Flash cell with (biologically) self-assembled nanocrystal floating gate - design, fabrication and characterization**
 
 ------
 
@@ -63,6 +67,8 @@ Solid-State Storage workload and throughput interaction with architecture and sy
 
 
 
+------
+
 ### Issued and Filed Patents
 
 -------
@@ -77,6 +83,8 @@ Data Storage Systems and Methods for Autonomously Adapting Data Storage System P
 
 
 
+------
+
 **Phase Change (Optane) Memory**
 
 -----
@@ -84,6 +92,8 @@ Data Storage Systems and Methods for Autonomously Adapting Data Storage System P
 [Maintenance Process to Enhance Memory Endurance](https://patentimages.storage.googleapis.com/bf/8b/75/fbb7447b9f31af/US8036016.pdf) - Issued, October 2011.
 
 
+
+-------
 
 **MEMS Display**
 
