@@ -29,7 +29,7 @@ description: My research engagements in the public domain, in the form of peer-r
 **Phase-Change (Optane) memory fundamental physics and materials science - characterization and modeling**
 
 -------
-<a href="https://aip.scitation.org/doi/10.1063/1.2821845" target="_blank">“Evolution of Phase Change Memory characteristics with operating cycles: electrical characterization and physical modeling”</a>, J. Sarkar and Bob Gleixner, Applied Physics Letters 91, p. 233506, 2007
+<a href="https://aip.scitation.org/doi/10.1063/1.2821845" target="_blank">“Evolution of Phase Change Memory characteristics with operating cycles: electrical characterization and physical modeling”</a>, **J. Sarkar** and Bob Gleixner, Applied Physics Letters 91, p. 233506, 2007
 
 <a href="https://ieeexplore.ieee.org/document/4227689" target="_blank"> “**[Invited]** Data retention characterization of Phase-Change Memory arrays”</a>, B. Gleixner, A. Pirovano, **J. Sarkar**, F. Ottogalli, E. Tortorelli, M. Tosi and R. Bez, Proceedings of 45th Annual IEEE International Reliability Physics Symposium 2007, p. 542 - 546
 &nbsp;
