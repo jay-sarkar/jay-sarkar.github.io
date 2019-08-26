@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: My research engagements in the public domain, in the form of peer-reviewed papers and filed patents, are described below. Working in research in the industry, a significant portion of my work naturally includes intellectual property that has been proprietary trade secrets to my employers over the years.
+description: My research engagements in the public domain, in the form of peer-reviewed papers and filed patents, are described below. Working in research in the industry, a significant portion of my work naturally includes intellectual property that has been proprietary trade secrets to my employers over the years. It does bring me great fulfilment in translation of my work into tangible benefits to society and people.
 ---
 
 ### Published peer-reviewed international conference and journal papers
@@ -13,13 +13,13 @@ description: My research engagements in the public domain, in the form of peer-r
 
 -------
 
-<a href="https://ieeexplore.ieee.org/document/8720510" target="_blank">"Operational Workload Impact on Solid-State Storage Analyzed with Interpretable Machine Learning"</a>, **Jay Sarkar**, Cory Peterson, 2019 International Reliability Physics Symposium (IRPS) April 2019, pp. 3C.6-1 – 3C.6-8.
+<a href="https://ieeexplore.ieee.org/document/8720510" target="_blank">"Operational Workload Impact on Solid-State Storage Analyzed with Interpretable Machine Learning"</a>, **Jay Sarkar** and Cory Peterson, 2019 International Reliability Physics Symposium (IRPS) April 2019, pp. 3C.6-1 – 3C.6-8.
 
 <a href="https://ieeexplore.ieee.org/document/8353565/" target="_blank"> “Machine-Learned Assessment and Prediction of Robust Solid-State Storage System Reliability Physics”</a>, **Jay Sarkar**, Cory Peterson and Amir Sanayei, 2018 International Reliability Physics Symposium (IRPS) March 2018, pp. 3C.6-1 – 3C.6-8.
 
-<a href="http://ieeexplore.ieee.org/document/7889748/" target="_blank"> “Robust Error-Management and Impact of Throughput in Solid State Storage – Characterization and First System Reliability Model”</a>, **Jay Sarkar**, Cory Peterson, Yao Zhang and Steve Lock, 2017 Annual Reliability and Maintainability Symposium (RAMS) 2017, pp. 1-6.
+<a href="http://ieeexplore.ieee.org/document/7889748/" target="_blank"> “Robust Error-Management and Impact of Throughput in Solid State Storage – Characterization and First System Reliability Model”</a>, **Jay Sarkar**, Cory Peterson, Yao Zhang and Steve Lock, 2017 Annual Reliability and Maintainability Symposium (RAMS) January 2017, pp. 1-6.
 
-<a href="https://ieeexplore.ieee.org/document/7105166" target="_blank"> “Reliability Characterization and Modeling of Solid State Storage”</a>, **Jay Sarkar** and Frank Sun, 2015 Annual Reliability and Maintainability Symposium (RAMS), 2015, pp. 1-6.
+<a href="https://ieeexplore.ieee.org/document/7105166" target="_blank"> “Reliability Characterization and Modeling of Solid State Storage”</a>, **Jay Sarkar** and Frank Sun, 2015 Annual Reliability and Maintainability Symposium (RAMS), January 2015, pp. 1-6.
 &nbsp;
 
 <br/>
