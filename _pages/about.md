@@ -7,8 +7,8 @@ description: <a href="https://www.linkedin.com/in/jaysarkar">LinkedIn</a> and <a
 profile:
   align: right
   image: jsarkar.jpg
-  address: >
-    <p>jsarkar 'at' gmail 'dot' com</p>
+ # address: >
+ #   <p>jsarkar 'at' gmail 'dot' com</p>
 
 news: false
 social: false
