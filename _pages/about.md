@@ -14,7 +14,9 @@ news: false
 social: false
 ---
 <div style="text-align: left"> My research interests encompass developing fundamentally influential, data-driven and model-based understanding and enablement of designs of novel systems, technologies and devices; - especially as focused on emerging solid-state storage, memory & compute architectures. With specific technical areas spanning interpretable/explainable machine learning, physical/statistical modeling & simulation, reliability science and solid-state electronics - I'm interested in first-principles and systems-thinking approaches. Most of my work has been at interfaces of science and engineering, and across interdisciplinary teams - while bearing meaningful practical impact on novel designs, technologies and products. With an interest in real-world impact of research, I also enjoy detail-oriented perspectives towards enabling so - appreciating the <a href="https://idioms.thefreedictionary.com/can%27t+see+the+forest+for+the+trees" target="_blank"> forest along with the trees</a>.
-<br/><br/>  As part of my participation in refereed journal reviews and conference technical program committees, I'm currently serving as chair of the System Reliability committee for <a href="https://irps.org" target="_blank"> IRPS 2020</a>. Additional details on my publicly available research papers and patents are available in the <a href="https://jay-sarkar.github.io/research/">research page</a>. </div>
+<br/><br/>  As part of my participation in refereed journal reviews and conference technical program committees, I'm currently serving as chair of the System Reliability committee for <a href="https://irps.org" target="_blank"> IRPS 2020</a>, where we welcome your abstract submissions.
+
+Additional details on my publicly available research papers and patents are available in the <a href="https://jay-sarkar.github.io/research/">research page</a>. </div>
 
 #### Current research interests:
 
