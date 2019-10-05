@@ -13,6 +13,8 @@ description: My research engagements in the public domain, in the form of peer-r
 
 -------
 
+**[ Invited ]** "Enabling Prognostics of Robust Design with Interpretable Machine Learning", Jay Sarkar and Cory Peterson, 2019 International Electron Devices Meeting, San Francisco, CA, December 2019.
+
 <a href="https://ieeexplore.ieee.org/document/8720510" target="_blank">"Operational Workload Impact on Solid-State Storage Analyzed with Interpretable Machine Learning"</a>, **Jay Sarkar** and Cory Peterson, 2019 International Reliability Physics Symposium (IRPS) April 2019, pp. 3C.6-1 – 3C.6-8.
 
 <a href="https://ieeexplore.ieee.org/document/8353565/" target="_blank"> “Machine-Learned Assessment and Prediction of Robust Solid-State Storage System Reliability Physics”</a>, **Jay Sarkar**, Cory Peterson and Amir Sanayei, 2018 International Reliability Physics Symposium (IRPS) March 2018, pp. 3C.6-1 – 3C.6-8.
@@ -31,7 +33,7 @@ description: My research engagements in the public domain, in the form of peer-r
 -------
 <a href="https://aip.scitation.org/doi/10.1063/1.2821845" target="_blank">“Evolution of Phase Change Memory characteristics with operating cycles: electrical characterization and physical modeling”</a>, **J. Sarkar** and Bob Gleixner, Applied Physics Letters 91, p. 233506, 2007
 
-<a href="https://ieeexplore.ieee.org/document/4227689" target="_blank"> “**[Invited]** Data retention characterization of Phase-Change Memory arrays”</a>, B. Gleixner, A. Pirovano, **J. Sarkar**, F. Ottogalli, E. Tortorelli, M. Tosi and R. Bez, Proceedings of 45th Annual IEEE International Reliability Physics Symposium 2007, p. 542 - 546
+<a href="https://ieeexplore.ieee.org/document/4227689" target="_blank"> “**[ Invited ]** Data retention characterization of Phase-Change Memory arrays”</a>, B. Gleixner, A. Pirovano, **J. Sarkar**, F. Ottogalli, E. Tortorelli, M. Tosi and R. Bez, Proceedings of 45th Annual IEEE International Reliability Physics Symposium 2007, p. 542 - 546
 &nbsp;
 
 <br/>
@@ -46,11 +48,11 @@ description: My research engagements in the public domain, in the form of peer-r
 
 <a href="https://ieeexplore.ieee.org/document/4800732" target="_blank"> “Vertical Flash memory devices with protein-assembled nanocrystal floating gate and Al2O3 control oxide”</a>, F. Ferdousi, **J. Sarkar**, D. Shahrjerdi, T. Akyol, J. P. Donnelly, E. Tutuc, S. K. Banerjee, 66th IEEE Device Research Conference 2008
 
-<a href="http://www.ssdm.jp/2007/invited_strategic.html" target="_blank"> “**[Invited]** Bio-nano approaches to fabricating quantum-dot floating gate flash memories”</a>, S. Banerjee, Shan Tang, **J. Sarkar**, Davood Shahrjerdi, Chang Lee, International Conference on Solid State Devices and Materials 2007, Ibaraki, Japan
+<a href="http://www.ssdm.jp/2007/invited_strategic.html" target="_blank"> “**[ Invited ]** Bio-nano approaches to fabricating quantum-dot floating gate flash memories”</a>, S. Banerjee, Shan Tang, **J. Sarkar**, Davood Shahrjerdi, Chang Lee, International Conference on Solid State Devices and Materials 2007, Ibaraki, Japan
 
 <a href="https://ieeexplore.ieee.org/document/4290570" target="_blank"> “Protein-mediated assembly of nanocrystal floating gate in a vertical flash cell”</a>, **J. Sarkar**, Shan Tang, Domingo Garcia, Sanjay Banerjee, 22nd IEEE Non Volatile Semiconductor Memory Workshop 2007, p. 34 – 35
 
-<a href="http://www.nanoparticles.org/pdf/BanerjeeS.pdf" target="_blank"> “**[Invited]** Flash memory with nanoparticle floating gate”</a>, Sanjay Banerjee, Shan Tang, **J. Sarkar**, Davood Shahrjerdi, Chang Lee, Particles 2007, Toronto, Canada
+<a href="http://www.nanoparticles.org/pdf/BanerjeeS.pdf" target="_blank"> “**[ Invited ]** Flash memory with nanoparticle floating gate”</a>, Sanjay Banerjee, Shan Tang, **J. Sarkar**, Davood Shahrjerdi, Chang Lee, Particles 2007, Toronto, Canada
 
 <a href="https://ieeexplore.ieee.org/document/4160043" target="_blank"> “Vertical flash memory with nanocrystal floating gate for ultra-dense integration and good retention”</a>, **J. Sarkar**, Sagnik Dey, Davood Shahrjerdi and Sanjay Banerjee, Electron Device Letters, 28, p. 449 – 451, 2007
 
