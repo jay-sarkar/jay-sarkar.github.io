@@ -24,12 +24,12 @@ social: false
 <li> Workloads and robust design of solid-state storage devices and systems </li>
 </ul>
 
-#### Past research work:
+#### Past research work (at points of novelty):
 
 <ul>
 <li> Phase Change (3D Xpoint/Optane) memory fundamental device and array physics, reliability, modeling and technology </li>
 <li> 3-D NAND Flash memory device physics, processing, characterization & reliability </li>
 <li> Mesoscopic electron transport physics, nanostructure design and fabrication </li>
-<li> A disk-less Beowulf Cluster computing system design/implementation (when the diskless concept was still novel!) </li>
+<li> A disk-less Beowulf Cluster computing system design/implementation </li>
 <li> MEMS display technology </li>
 </ul>
