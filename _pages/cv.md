@@ -10,6 +10,6 @@ social: false
 
 ### full CV
 
-You can find my (likely slightly dated) full CV <a class="page-link" href="{{ '/cv/JSarkar_CV.pdf' | prepend: site.baseurl | prepend: site.url }}">here</a>  
+You can find my (likely somewhat dated) full CV <a class="page-link" href="{{ '/cv/JSarkar_CV.pdf' | prepend: site.baseurl | prepend: site.url }}">here</a>  
 
 ------
