@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Engagements in the public domain
+description: Some of my engagements and service in the public domain.
 ---
 
 Professional service:
