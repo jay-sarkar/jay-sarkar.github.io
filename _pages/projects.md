@@ -7,6 +7,7 @@ description: This page lists some of my engagements and service in the public do
 
 Professional service:
 
+- Guest Lecturer, Graduate Course on Prognostics and Health Management - 2019, Center for Advanced Life Cycle Engineering (CALCE), University of Maryland, College Park.
 - Chair, System Reliability Technical Committee, International Reliability Physics Symposium (IRPS) 2020.
   - Vice - Chair, System Reliability Technical Committee, IRPS 2019.
   - Committee Member, System Reliability Technical Committee, IRPS 2018.
