@@ -13,7 +13,7 @@ description: My research engagements in the public domain, in the form of peer-r
 
 -------
 
-**[ Invited ]** "Enabling Prognostics of Robust Design with Interpretable Machine Learning", Jay Sarkar and Cory Peterson, 2019 International Electron Devices Meeting, San Francisco, CA, December 2019.
+<a href="https://ieee-iedm.org/wp-content/uploads/2019/10/session-13.pdf" target="_blank"> **[Invited]** "Enabling Prognostics of Robust Design with Interpretable Machine Learning"</a>, **Jay Sarkar** and Cory Peterson, Focus Session, 2019 International Electron Devices Meeting, San Francisco, CA, December 2019.
 
 <a href="https://ieeexplore.ieee.org/document/8720510" target="_blank">"Operational Workload Impact on Solid-State Storage Analyzed with Interpretable Machine Learning"</a>, **Jay Sarkar** and Cory Peterson, 2019 International Reliability Physics Symposium (IRPS) April 2019, pp. 3C.6-1 – 3C.6-8.
 
