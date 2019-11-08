@@ -5,7 +5,7 @@ permalink: /projects/
 description: This page lists some of my engagements and service in the public domain.
 ---
 
-Professional service:
+Professional engagements & service:
 
 
 
@@ -14,11 +14,13 @@ Professional service:
   
 
 - Chair, System Reliability Technical Committee, International Reliability Physics Symposium (IRPS) 2020.
-  - Vice - Chair, System Reliability Technical Committee, IRPS 2019.
-  - Committee Member, System Reliability Technical Committee, IRPS 2018.
+
+- Vice - Chair, System Reliability Technical Committee, IRPS 2019.
+
+- Technical Committee Member, System Reliability, IRPS 2018.
+
   
-  
-  
+
 - Co-moderator, <a href="http://irps.org/wp-content/uploads/2018/01/Storage-and-Memory-%E2%80%93-SSD-SD-DIMM.pdf" target="_blank"> "Resiliency in design, system- level considerations and role of usage analytics”</a> Workshop on Solid-State Storage and Memory “, IRPS 2018.
 
   
