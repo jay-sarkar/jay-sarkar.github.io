@@ -9,7 +9,7 @@ Professional engagements & service:
 
 
 
-- Guest Lecturer, graduate course on Prognostics and Health Management, Center for Advanced Life Cycle Engineering (CALCE), University of Maryland, College Park, 2019.
+- Guest Lecturer, graduate course on Prognostics and System Health Management, Center for Advanced Life Cycle Engineering (CALCE), University of Maryland, College Park, 2019.
 
   
 
