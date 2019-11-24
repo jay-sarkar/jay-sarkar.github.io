@@ -2,7 +2,7 @@
 layout: page
 permalink: /contact/
 title: contacts and links
-description: How to contact me and a few interesting/useful links.
+description: Contact information.
 
 news: false
 social: true
