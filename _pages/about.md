@@ -20,7 +20,7 @@ social: false
 #### Current research interests:
 
 <ul>
-<li> Interpretable and explainable Machine Learning</li>
+<li> Interpretable Machine Learning</li>
 <li> Prognostics and system health </li>
 <li> Resilient system design </li>
 <li> Workloads and robust design of solid-state storage devices and systems, incorporating the above </li>
