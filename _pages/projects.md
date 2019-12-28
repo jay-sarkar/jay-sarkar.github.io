@@ -9,6 +9,10 @@ Professional service & engagements:
 
 
 
+- Moderator, [Workshop on Solid-State Storage](https://irps.org/program/workshops/),  International Reliability Physics Symposium (IRPS) 2020.
+
+  
+
 - Chair, System Reliability Technical Committee, International Reliability Physics Symposium (IRPS) 2020.
 
   
@@ -25,7 +29,7 @@ Professional service & engagements:
 
   
 
-- Co-moderator, <a href="http://irps.org/wp-content/uploads/2018/01/Storage-and-Memory-%E2%80%93-SSD-SD-DIMM.pdf" target="_blank"> "Resiliency in design, system- level considerations and role of usage analytics”</a> Workshop on Solid-State Storage and Memory “, IRPS 2018.
+- Moderator, <a href="http://irps.org/wp-content/uploads/2018/01/Storage-and-Memory-%E2%80%93-SSD-SD-DIMM.pdf" target="_blank"> "Resiliency in design, system- level considerations and role of usage analytics”</a> Workshop on Solid-State Storage and Memory “, IRPS 2018.
 
   
 
