@@ -23,7 +23,7 @@ social: false
 <li> Interpretable Machine Learning</li>
 <li> Prognostics and system health </li>
 <li> Resilient system design </li>
-<li> Workloads and robust design of solid-state storage devices and systems, incorporating the above </li>
+<li> Workloads and robust design of solid-state storage devices and systems, incorporating the above aspects </li>
 </ul>
 
 #### Past research work (at points of novelty in respective areas):
