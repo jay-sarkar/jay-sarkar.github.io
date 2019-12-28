@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: My research engagements in the public domain, in the form of peer-reviewed papers and filed patents, are described below. Working in research in the industry, a significant portion of my work naturally results in intellectual property that has been proprietary trade secrets to the organizations I have worked for over the years. It brings me great fulfilment on the translation of my work into tangible benefits to the scientific/technological community and society.
+description: My research engagements in the public domain, in the form of peer-reviewed papers and filed patents, are described below. Working in research in the industry, a significant portion of my work naturally results in intellectual property that has been proprietary trade secrets to the organizations I have worked in over the years. It brings me great fulfilment on the translation of my work into tangible benefits to the scientific/technological community and society.
 ---
 
 ### Published peer-reviewed international conference and journal papers
