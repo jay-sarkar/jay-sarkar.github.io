@@ -19,8 +19,6 @@ Accepted version - [PDF](https://jay-sarkar.github.io/cv/Enabling_Prognostics_of
 
 
 
-
-
 <a href="https://ieeexplore.ieee.org/document/8720510" target="_blank">"Operational Workload Impact on Solid-State Storage Analyzed with Interpretable Machine Learning"</a>, **Jay Sarkar** and Cory Peterson, 2019 International Reliability Physics Symposium (IRPS) April 2019, pp. 3C.6-1 – 3C.6-8.
 
 <a href="https://ieeexplore.ieee.org/document/8353565/" target="_blank"> “Machine-Learned Assessment and Prediction of Robust Solid-State Storage System Reliability Physics”</a>, **Jay Sarkar**, Cory Peterson and Amir Sanayei, 2018 International Reliability Physics Symposium (IRPS) March 2018, pp. 3C.6-1 – 3C.6-8.
