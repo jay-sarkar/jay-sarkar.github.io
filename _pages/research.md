@@ -15,7 +15,9 @@ description: My research engagements in the public domain, in the form of peer-r
 
 <a href="https://ieee-iedm.org/wp-content/uploads/2019/10/session-13.pdf" target="_blank"> **[Invited]** "Enabling Prognostics of Robust Design with Interpretable Machine Learning"</a>, **Jay Sarkar** and Cory Peterson, Focus Session on Reliability of Systems and Devices, 2019 International Electron Devices Meeting, San Francisco, CA, December 2019.
 
-Accepted version - [PDF](https://jay-sarkar.github.io/cv/Enabling_Prognostics_of_Robust_Design with_Interpretable_Machine_Learning-IEDM_2019_Sarkar.pdf)
+Accepted version - [PDF](https://jay-sarkar.github.io/cv/Enabling_Prognostics_of_Robust_Design_with_Interpretable_Machine_Learning-IEDM_2019_Sarkar.pdf)
+
+
 
 
 
