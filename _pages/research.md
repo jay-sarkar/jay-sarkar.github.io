@@ -15,6 +15,10 @@ description: My research engagements in the public domain, in the form of peer-r
 
 <a href="https://ieee-iedm.org/wp-content/uploads/2019/10/session-13.pdf" target="_blank"> **[Invited]** "Enabling Prognostics of Robust Design with Interpretable Machine Learning"</a>, **Jay Sarkar** and Cory Peterson, Focus Session on Reliability of Systems and Devices, 2019 International Electron Devices Meeting, San Francisco, CA, December 2019.
 
+Accepted version - [PDF](https://jay-sarkar.github.io/cv/Enabling_Prognostics_of_Robust_Design with_Interpretable_Machine_Learning-IEDM_2019_Sarkar.pdf)
+
+
+
 <a href="https://ieeexplore.ieee.org/document/8720510" target="_blank">"Operational Workload Impact on Solid-State Storage Analyzed with Interpretable Machine Learning"</a>, **Jay Sarkar** and Cory Peterson, 2019 International Reliability Physics Symposium (IRPS) April 2019, pp. 3C.6-1 – 3C.6-8.
 
 <a href="https://ieeexplore.ieee.org/document/8353565/" target="_blank"> “Machine-Learned Assessment and Prediction of Robust Solid-State Storage System Reliability Physics”</a>, **Jay Sarkar**, Cory Peterson and Amir Sanayei, 2018 International Reliability Physics Symposium (IRPS) March 2018, pp. 3C.6-1 – 3C.6-8.
