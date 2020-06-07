@@ -9,11 +9,11 @@ Professional service & engagements:
 
 
 
-- Moderator, [Workshop on Solid-State Storage](https://irps.org/program/workshops/),  International Reliability Physics Symposium (IRPS) 2020.
+- Chair, System Reliability Technical Committee, International Reliability Physics Symposium (IRPS) 2020.
 
   
 
-- Chair, System Reliability Technical Committee, International Reliability Physics Symposium (IRPS) 2020.
+- ~~Moderator, [Workshop on Solid-State Storage](https://irps.org/program/workshops/),  International Reliability Physics Symposium (IRPS) 2020~~. - cancelled due to IRPS moving to a virtual forum for 2020.
 
   
 
