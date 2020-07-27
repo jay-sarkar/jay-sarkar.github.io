@@ -14,6 +14,3 @@ email: jsarkar 'at' gmail 'dot' com
 
 ------
 
-### Links
-
-Under construction.

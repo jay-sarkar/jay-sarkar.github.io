@@ -13,9 +13,10 @@ profile:
 news: false
 social: false
 ---
-<div style="text-align: left"> My research interests encompass developing fundamentally influential, principled, data-driven and model-based understanding and enablement of designs of novel systems, technologies and devices; - especially as focused on emerging solid-state storage, memory & compute architectures. With specific technical areas spanning interpretable machine learning, physical/statistical modeling & simulation, reliability science and solid-state electronics - I'm interested in first-principles and systems-thinking approaches. Most of my work has been at interfaces of science and engineering, and across interdisciplinary teams - while bearing meaningful practical impact on novel designs, technologies and products. With interest in real-world impact of research, I also enjoy detail-oriented perspectives towards enablement - in appreciation of the forest along with the trees.
+<div style="text-align: left"> My research interests encompass developing fundamentally influential, principled, data-driven and model-based understanding and enablement of designs of novel systems, technologies and devices; - especially as focused on emerging solid-state storage, memory & compute architectures. With specific technical areas spanning interpretable machine learning, physical/statistical modeling & simulation, reliability science and solid-state electronics - I'm interested in first-principles and systems-thinking approaches. Most of my work has been at interfaces of science and engineering, and across interdisciplinary teams - while bearing meaningful practical impact on novel designs, technologies and products. With interest in real-world impact of research and pathfinding, I also enjoy detail-oriented perspectives towards enablement - in appreciation of the forest along with the trees.
 <br/><br/>  
-  Additional details on my publicly available research papers and patent filings are available in the <a href="https://jay-sarkar.github.io/research/">research page</a>. </div>
+  Additional details on my peer-reviewed research papers and patent filings are available in the <a href="https://jay-sarkar.github.io/research/">research page</a>. </div>
+
 
 #### Current research interests:
 
@@ -23,8 +24,9 @@ social: false
 <li> Interpretable Machine Learning</li>
 <li> Prognostics and system health </li>
 <li> Resilient system design </li>
-<li> Workloads and robust design of solid-state storage devices and systems, in coherence with the above aspects </li>
+<li> Workload impacts on solid-state storage devices and systems, in coherence with above aspects </li>
 </ul>
+
 
 #### Past research work (at points of novelty in respective areas):
 

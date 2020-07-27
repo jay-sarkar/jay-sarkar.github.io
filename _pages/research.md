@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: My research engagements in the public domain, in the form of peer-reviewed papers and filed patents, are described below. Working in research in the industry, a significant portion of my work naturally results in intellectual property that has been proprietary trade secrets to the organizations I have worked in over the years. It brings me great fulfilment on the translation of my work into tangible benefits to the scientific/technological community and society.
+description: My research engagements in the public domain, in the form of peer-reviewed papers and filed patents, are described below. Working in research in the industry, a significant portion of my work also naturally results in intellectual property that are proprietary trade secrets to the organizations I have worked in over the years. It brings me great fulfilment on the translation of my work into tangible benefits to the scientific/technological community and society.
 ---
 
 ### Published peer-reviewed international conference and journal papers
@@ -84,9 +84,15 @@ Accepted version - [PDF](https://jay-sarkar.github.io/cv/Enabling_Prognostics_of
 
 ---------
 
-Data Storage Systems and Methods for Autonomously Adapting Data Storage System Performance, Capacity and/or Operational Requirements - Filed, December 2018.
+"Method and System for Host-Assisted Data Recovery Assurance for Data Center Storage Device Architectures" - Filed, January 2020.
 
-[Method and System for a Storage (SSD) Drive-Level Failure and Health Prediction Leveraging Machine Learning on Internal Parametric Data](https://patentimages.storage.googleapis.com/0a/48/b3/c8368a515a52d1/US20190108888A1.pdf) - Filed, October 2017.
+
+
+"Data Storage Systems and Methods for Autonomously Adapting Data Storage System Performance, Capacity and/or Operational Requirements" - Filed, December 2018.
+
+
+
+[Method and System for a Storage (SSD) Drive-Level Failure and Health Prediction Leveraging Machine Learning on Internal Parametric Data](https://patentimages.storage.googleapis.com/0a/48/b3/c8368a515a52d1/US20190108888A1.pdf) - Issued, July 2020.
 
 ------
 
