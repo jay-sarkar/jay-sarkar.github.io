@@ -92,7 +92,7 @@ Accepted version - [PDF](https://jay-sarkar.github.io/cv/Enabling_Prognostics_of
 
 
 
-[Method and System for a Storage (SSD) Drive-Level Failure and Health Prediction Leveraging Machine Learning on Internal Parametric Data](https://patentimages.storage.googleapis.com/0a/48/b3/c8368a515a52d1/US20190108888A1.pdf) - scheduled to be issued, July 2020.
+[Method and System for a Storage (SSD) Drive-Level Failure and Health Prediction Leveraging Machine Learning on Internal Parametric Data](https://patentimages.storage.googleapis.com/0a/48/b3/c8368a515a52d1/US20190108888A1.pdf) - Issued, July 2020.
 
 ------
 
