@@ -17,6 +17,8 @@ description: My research engagements in the public domain, in the form of peer-r
 
 Accepted version - [PDF](https://jay-sarkar.github.io/cv/Enabling_Prognostics_of_Robust_Design_with_Interpretable_Machine_Learning-IEDM_2019_Sarkar.pdf)
 
+Published Version: [IEEExPlore](https://ieeexplore.ieee.org/document/8993481)
+
 
 
 <a href="https://ieeexplore.ieee.org/document/8720510" target="_blank">"Operational Workload Impact on Solid-State Storage Analyzed with Interpretable Machine Learning"</a>, **Jay Sarkar** and Cory Peterson, 2019 International Reliability Physics Symposium (IRPS) April 2019, pp. 3C.6-1 – 3C.6-8.
