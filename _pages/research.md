@@ -86,11 +86,15 @@ Published Version: [IEEExPlore](https://ieeexplore.ieee.org/document/8993481)
 
 ---------
 
+"[Method and System Involving Degradation of Non-Volatile Memory Based on Write Commands and Drive-Writes]()" - Filed, July 2020.
+
+
+
 "Method and System for Host-Assisted Data Recovery Assurance for Data Center Storage Device Architectures" - Filed, January 2020.
 
 
 
-"Data Storage Systems and Methods for Autonomously Adapting Data Storage System Performance, Capacity and/or Operational Requirements" - Filed, December 2018.
+"[Data Storage Systems and Methods for Autonomously Adapting Data Storage System Performance, Capacity and/or Operational Requirements](https://patents.google.com/patent/US20200192738A1/)" - Filed, December 2018.
 
 
 

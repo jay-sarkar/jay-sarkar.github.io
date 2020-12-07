@@ -10,6 +10,6 @@ social: false
 
 ### full CV
 
-You can find my (likely somewhat dated) full CV <a class="page-link" href="{{ '/cv/JSarkar_CV.pdf' | prepend: site.baseurl | prepend: site.url }}">here</a>  
+You can find my (likely somewhat dated) full CV <a class="page-link" href="{{ '/cv/JSarkar_CV.pdf' | prepend: site.baseurl | prepend: site.url }}">here</a> . My [LinkedIn profile](https://www.linkedin.com/in/jaysarkar/) is more likely to be updated.
 
 ------

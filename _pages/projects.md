@@ -9,6 +9,10 @@ Professional service & engagements:
 
 
 
+- Emeritus Chair, System Reliability Committee, and Work Co-moderator on Solid-State Storage and Memory, International Reliability Physics Symposium (IRPS) 2021.
+
+  
+
 - Chair, System Reliability Technical Committee, International Reliability Physics Symposium (IRPS) 2020.
 
   
